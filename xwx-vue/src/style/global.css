@@ -1,0 +1,124 @@
+@font-face {
+    font-family: "Louis Vuitton Web";
+    font-weight: 300;
+    font-style: normal;
+    src: url("../assets/font/LouisVuitton-Light.woff2")
+}
+
+@font-face {
+    font-family: "Louis Vuitton Web";
+    font-weight: 400;
+    font-style: normal;
+    src: url("../assets/font/LouisVuitton-Regular.woff2")
+}
+
+@font-face {
+    font-family: "Louis Vuitton Web";
+    font-weight: 700;
+    font-style: normal;
+    src: url("../assets/font/LouisVuitton-Bold.woff2")
+}
+
+@font-face {
+    font-family: "Louis Vuitton Web";
+    font-weight: 300;
+    font-style: oblique;
+    src: url("../assets/font/LouisVuitton-LightOblique.woff2")
+}
+@font-face {
+    font-family: "Louis Vuitton Web";
+    font-weight: 500;
+    font-style: normal;
+    src: url("../assets/font/LouisVuitton-Medium.woff2")
+}
+@font-face {
+    font-family: "Louis Vuitton Web";
+    font-weight: 600;
+    font-style: normal;
+    src: url("../assets/font/LouisVuitton-Demi.woff2")
+}
+
+
+
+.dropdown-menu {
+    width: 100%;
+    border: 0;
+    border-bottom: 1px solid #eae8e4;
+}
+html {
+    color: #222;
+    font-size: 1em;
+    line-height: 1.4;
+}
+body {
+    min-height: 100vh;
+    font-family: "Louis Vuitton Web","Helvetica Neue","Helvetica","Arial","sans-serif";
+}
+.pd36 {
+    padding: 36px;
+}
+.h1-text {
+    font-weight: 700;
+}
+.fs14 {
+    font-size: 14px;
+}
+.bb1 {
+    border-bottom: 1px solid #eae8e4;
+}
+.h6-text {
+    font-weight: 700;
+}
+.bdr {
+    border-right: 1px solid #eae8e4;
+}
+
+.hbtn {
+    cursor: pointer;
+    position: relative;
+    box-sizing: border-box;
+    display: inline-block;
+    overflow: hidden;
+    padding: 16px 20px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    white-space: nowrap;
+    z-index: 0;
+}
+
+
+.hbtn div {
+    padding-right: 8px;
+}
+
+
+.hb-fill-on-rev::before {
+    position: absolute;
+    content: "";
+    background: black;
+    transition-duration: 0.3s;
+    z-index: -1;
+    top: 0px;
+    right: auto;
+    bottom: auto;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+}
+
+
+.hb-fill-on-rev:hover::before {
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+}
+
+
+.hb-fill-on-rev:hover {
+    background: #eae8e4;
+    color: black;
+    transition: color 0.3s ease 0s, background 0s ease 0s;
+}
+
