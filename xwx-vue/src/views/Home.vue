@@ -69,6 +69,7 @@
         <div class="min-content-one">
           <div class="small-item">
             <img class="img-fluid" :src="require('../assets/home-img/home-1.jpeg')" />
+            <h2>TWEED/DENIM SHIRT</h2>
           </div>
           <div class="small-item">
             <h2>THAT’S A WRAP</h2>
@@ -79,6 +80,7 @@
           </div>
           <div class="small-item">
             <img class="img-fluid" :src="require('../assets/home-img/3.jpg')" />
+            <h2>ZIPPED CHECK PRINT SHIRT</h2>
           </div>
         </div>
 
@@ -87,6 +89,7 @@
         <div class="content-one">
           <div class="left pd36">
             <img class="img-fluid" :src="require('../assets/home-img/home-1.jpeg')" />
+            <h2>TWEED/DENIM SHIRT</h2>
           </div>
           <div class="right">
             <div class="pd36">
@@ -98,6 +101,7 @@
             </div>
             <div class="pd36 bdt">
               <img class="img-fluid" :src="require('../assets/home-img/3.jpg')" alt="">
+              <h2>ZIPPED CHECK PRINT SHIRT</h2>
             </div>
           </div>
         </div>
@@ -108,17 +112,19 @@
           <div class="col-sm">
             <div class="pd36">
               <img class="img-fluid" :src="require('../assets/home-img/2.jpg')" alt="">
+              <h2>ZIPPED SHEARLING JACKET</h2>
             </div>
           </div>
           <div class="col-sm">
             <div class="pd36">
               <img class="img-fluid" :src="require('../assets/home-img/4.jpg')" alt="">
-
+              <h2>ANDREA MARTIN PRINTED SWEATSHIRT</h2>
             </div>
           </div>
           <div class="col-sm">
             <div class="pd36">
               <img class="img-fluid" :src="require('../assets/home-img/5.jpg')" alt="">
+              <h2>BASIC PRINTED LONG SLEEVE T-SHIRT</h2>
             </div>
           </div>
         </div>

@@ -91,7 +91,7 @@ const products = {
       {
         id: 'm-1-6',
         chineseName: '羊羔毛外套-白色',
-        name: 'SPIDER WEB EMBROIDERY DENIM JACKET',
+        name: 'SNOW MOUNTAIN PRINT SHEARLING JACKET',
         url: [
           { path: require('../assets/man/m-1-6-z.jpg'), type: 'z' },
           { path: require('../assets/man/m-1-6-f.jpg'), type: 'f' }
@@ -105,13 +105,13 @@ const products = {
       {
         id: 'm-1-7',
         chineseName: '羊羔毛外套-黑色',
-        name: 'SPIDER WEB EMBROIDERY DENIM JACKET',
+        name: 'SEASCAPE PRINT SHEARLING JACKET',
         url: [
           { path: require('../assets/man/m-1-7-z.jpg'), type: 'z' },
           { path: require('../assets/man/m-1-7-f.jpg'), type: 'f' }
         ],
         detail: {
-          'features': '38%  Virgin wool|33%  Acrylic|29% Polyester|Lining: 100% Polyamide|White|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'features': '38%  Virgin wool|33%  Acrylic|29% Polyester|Lining: 100% Polyamide|Black|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': '1/2/3'
         },
         price: 480
@@ -119,13 +119,13 @@ const products = {
       {
         id: 'm-1-8',
         chineseName: '羊羔毛外套-绿色',
-        name: 'SPIDER WEB EMBROIDERY DENIM JACKET',
+        name: 'MORNING GLOW PRINT SHEARLING JACKET',
         url: [
           { path: require('../assets/man/m-1-8-z.jpg'), type: 'z' },
           { path: require('../assets/man/m-1-8-f.jpg'), type: 'f' }
         ],
         detail: {
-          'features': '38%  Virgin wool|33%  Acrylic|29% Polyester|Lining: 100% Polyamide|White|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'features': '38%  Virgin wool|33%  Acrylic|29% Polyester|Lining: 100% Polyamide|Green|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': '1/2/3'
         },
         price: 480
@@ -133,13 +133,13 @@ const products = {
       {
         id: 'm-1-9',
         chineseName: '羊羔毛外套-驼色',
-        name: 'SPIDER WEB EMBROIDERY DENIM JACKET',
+        name: 'SUNSET PRINT SHEARLING JACKET',
         url: [
           { path: require('../assets/man/m-1-9-z.jpg'), type: 'z' },
           { path: require('../assets/man/m-1-9-f.jpg'), type: 'f' }
         ],
         detail: {
-          'features': '38%  Virgin wool|33%  Acrylic|29% Polyester|Lining: 100% Polyamide|White|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'features': '38%  Virgin wool|33%  Acrylic|29% Polyester|Lining: 100% Polyamide|Camel|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': '1/2/3'
         },
         price: 480
@@ -644,7 +644,7 @@ const products = {
           { path: require('../assets/women/w-2-1-f.jpg'), type: 'f' }
         ],
         detail: {
-          'features': '35%  KID MOHAIR|33% POLYAMIDE|19% WOOL|13% POLYPROPYLENE|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'features': '35%  KID MOHAIR|33% POLYAMIDE|19% WOOL|13% POLYPROPYLENE|Grey|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
         price: 320
@@ -734,7 +734,7 @@ const products = {
           { path: require('../assets/women/w-3-4-4.jpg'), type: 'n' }
         ],
         detail: {
-          'features': '60% KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'features': '60% KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|Multicolor|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M'
         },
         price: 480
@@ -790,7 +790,7 @@ const products = {
           { path: require('../assets/women/w-2-9-f.jpg'), type: 'f' }
         ],
         detail: {
-          'features': '60%  KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|Purple/White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'features': '60%  KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|Black/white|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
         price: 320
@@ -804,7 +804,7 @@ const products = {
           { path: require('../assets/women/w-2-10-f.jpg'), type: 'f' }
         ],
         detail: {
-          'features': '60%  KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|Purple/White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'features': '60%  KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|Green/red|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
         price: 320
