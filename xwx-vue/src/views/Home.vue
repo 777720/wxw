@@ -1,5 +1,12 @@
 <style lang="less">
     .pg-home {
+      .fs135 {
+        font-size: 1.25rem!important;
+      }
+      .h2-totle {
+        font-size: 1.59375rem;
+        margin-top: 30px;
+      }
       .swiper-container {
         .swiper-img {
           width: 100%;
@@ -69,18 +76,18 @@
         <div class="min-content-one">
           <div class="small-item">
             <img class="img-fluid" :src="require('../assets/home-img/home-1.jpeg')" />
-            <h2>TWEED/DENIM SHIRT</h2>
+            <h2 class="h2-totle">TWEED/DENIM SHIRT</h2>
           </div>
           <div class="small-item">
-            <h2>THAT’S A WRAP</h2>
+            <h2>ANDREA MARTIN</h2>
             <p>
-              Enjoy signature packaging | Shop by Dec 19 to receive by Dec 24
+              2020SS IS COMING
             </p>
-            <div class="hbtn hb-fill-on-rev">GIFT THE ICONIC SPEEDY</div>
+            <div class="hbtn hb-fill-on-rev">VIEW NOW</div>
           </div>
           <div class="small-item">
             <img class="img-fluid" :src="require('../assets/home-img/3.jpg')" />
-            <h2>ZIPPED CHECK PRINT SHIRT</h2>
+            <h2 class="h2-totle">ZIPPED CHECK PRINT SHIRT</h2>
           </div>
         </div>
 
@@ -89,19 +96,19 @@
         <div class="content-one">
           <div class="left pd36">
             <img class="img-fluid" :src="require('../assets/home-img/home-1.jpeg')" />
-            <h2>TWEED/DENIM SHIRT</h2>
+            <h2 class="h2-totle">TWEED/DENIM SHIRT</h2>
           </div>
           <div class="right">
             <div class="pd36">
-              <h2>THAT’S A WRAP</h2>
+              <h2>ANDREA MARTIN</h2>
               <p>
-                Enjoy signature packaging | Shop by Dec 19 to receive by Dec 24
+                2020SS IS COMING
               </p>
-              <div class="hbtn hb-fill-on-rev">GIFT THE ICONIC SPEEDY</div>
+              <div class="hbtn hb-fill-on-rev">VIEW NOW</div>
             </div>
             <div class="pd36 bdt">
               <img class="img-fluid" :src="require('../assets/home-img/3.jpg')" alt="">
-              <h2>ZIPPED CHECK PRINT SHIRT</h2>
+              <h2 class="h2-totle">ZIPPED CHECK PRINT SHIRT</h2>
             </div>
           </div>
         </div>
@@ -112,19 +119,19 @@
           <div class="col-sm">
             <div class="pd36">
               <img class="img-fluid" :src="require('../assets/home-img/2.jpg')" alt="">
-              <h2>ZIPPED SHEARLING JACKET</h2>
+              <h2 class="h2-totle fs135">ZIPPED SHEARLING JACKET</h2>
             </div>
           </div>
           <div class="col-sm">
             <div class="pd36">
               <img class="img-fluid" :src="require('../assets/home-img/4.jpg')" alt="">
-              <h2>ANDREA MARTIN PRINTED SWEATSHIRT</h2>
+              <h2 class="h2-totle fs135">ANDREA MARTIN PRINTED SWEATSHIRT</h2>
             </div>
           </div>
           <div class="col-sm">
             <div class="pd36">
               <img class="img-fluid" :src="require('../assets/home-img/5.jpg')" alt="">
-              <h2>BASIC PRINTED LONG SLEEVE T-SHIRT</h2>
+              <h2 class="h2-totle fs135">BASIC PRINTED LONG SLEEVE T-SHIRT</h2>
             </div>
           </div>
         </div>

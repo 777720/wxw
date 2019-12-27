@@ -57,7 +57,7 @@
         </div>
         <div class="form-group form-check">
           <input type="checkbox" class="form-check-input" id="exampleCheck1" v-model="check">
-          <label class="form-check-label" for="exampleCheck1">Uncheck the box if you prefer to not receive Louis Vuitton emails. By subscribing you agree to our Privacy Policy. *</label>
+          <label class="form-check-label" for="exampleCheck1">Uncheck the box if you prefer to not receive Andrea Martin emails. By subscribing you agree to our Privacy Policy. *</label>
         </div>
         <div class="hbtn hb-fill-on-rev" :style="{ width: '100%' }" @click="processFn">Process</div>
       </div>

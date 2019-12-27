@@ -594,7 +594,7 @@ const products = {
       {
         id: 'w-1-0',
         chineseName: '音符开衫-白色',
-        name: 'ONSTELLATION PRINT SWEATSHIRT',
+        name: 'KNITTED CARDIGAN/ NOTE',
         url: [
           { path: require('../assets/women/w-1-0-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-1-0-f.jpg'), type: 'f' }
@@ -608,13 +608,13 @@ const products = {
       {
         id: 'w-1-1',
         chineseName: '音符开衫-黑色',
-        name: 'ONSTELLATION PRINT SWEATSHIRT',
+        name: 'KNITTED CARDIGAN/ NOTE',
         url: [
           { path: require('../assets/women/w-1-1-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-1-1-f.jpg'), type: 'f' }
         ],
         detail: {
-          'features': '55% Cotton|38% Polyamide|7% Silk|White|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'features': '55% Cotton|38% Polyamide|7% Silk|Black|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
         price: 490
@@ -688,7 +688,7 @@ const products = {
       {
         id: 'w-2-4',
         chineseName: '马海毛开衫-粉色独角兽',
-        name: 'WHALE KNITTED CARDIGAN',
+        name: 'UNICORN KNITTED CARDIGAN',
         url: [
           { path: require('../assets/women/w-3-2-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-3-2-f.jpg'), type: 'f' },
@@ -698,7 +698,7 @@ const products = {
           { path: require('../assets/women/w-3-2-4.jpg'), type: 'n' }
         ],
         detail: {
-          'features': '60% KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'features': '60% KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|Pink|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M'
         },
         price: 480
@@ -706,7 +706,7 @@ const products = {
       {
         id: 'w-2-4(1)',
         chineseName: '马海毛开衫-蓝色鲸鱼',
-        name: 'UNICORN KNITTED CARDIGAN',
+        name: 'WHALE KNITTED CARDIGAN',
         url: [
           { path: require('../assets/women/w-3-3-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-3-3-f.jpg'), type: 'f' },
@@ -716,7 +716,7 @@ const products = {
           { path: require('../assets/women/w-3-3-4.jpg'), type: 'n' }
         ],
         detail: {
-          'features': '60% KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'features': '60% KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|Blue|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M'
         },
         price: 480
@@ -996,7 +996,7 @@ const products = {
           { path: require('../assets/women/w-3-15-f.jpg'), type: 'f' }
         ],
         detail: {
-          'features': '100% Cotton|Blue/Green|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'features': '100% Cotton|Blue/pink|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
         price: 290
@@ -1088,7 +1088,7 @@ const products = {
       {
         id: 'w-3-21',
         chineseName: '贴步卫衣-绿色',
-        name: 'DESSERT-PATCH SWEATSHIRT',
+        name: 'TELEPHONE-PATCH SWEATSHIRT',
         url: [
           { path: require('../assets/women/w-3-21-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-3-21-z.jpg'), type: 'z' },
