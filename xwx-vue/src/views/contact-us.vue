@@ -73,7 +73,7 @@
           <div class="card-item">
             <div class="card-title">EMAIL US</div>
             <div class="card-text">
-              Our dedicated specialists will be delighted to answer your questions
+              For questions or queries, please contact Andrea Martin Customer Services：customercare@andreamartinofficial.com
             </div>
             <div class="card-btn">
               <div class="hbtn hb-fill-on-rev" :style="{ width: '100%' }" @click="sendEmailFn">Send An Email</div>

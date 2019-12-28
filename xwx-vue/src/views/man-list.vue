@@ -37,13 +37,19 @@ export default {
       const idArr = id.split('-')
       const typeIndex = 'man'
       if (id === '0-0') {
-        console.log('0-0')
-        this.listData = [
+        let listDataTemp = [
           ...products[typeIndex][1],
           ...products[typeIndex][2],
           ...products[typeIndex][3],
           ...products[typeIndex][4]
         ]
+        listDataTemp.map((item, index) => {
+          item.dateObj = new Date(item.upDate)
+        })
+        listDataTemp.sort(function (a, b) {
+          return a.dateObj < b.dateObj ? 1 : -1
+        })
+        this.listData = listDataTemp
         this.categoryTitle = 'New Arrival'
         return
       }

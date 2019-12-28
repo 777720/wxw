@@ -32,7 +32,7 @@ export default {
   },
   methods: {
     changeDataFn () {
-      this.listData = [
+      let listDataTemp = [
         ...products['man'][1],
         ...products['man'][2],
         ...products['man'][3],
@@ -42,6 +42,14 @@ export default {
         ...products['women'][3],
         ...products['women'][4]
       ]
+      listDataTemp.map((item, index) => {
+        item.dateObj = new Date(item.upDate)
+      })
+      listDataTemp.sort(function (a, b) {
+        return a.dateObj < b.dateObj ? 1 : -1
+      })
+      this.listData = listDataTemp
+
       this.categoryTitle = 'what’s new'
     }
   }

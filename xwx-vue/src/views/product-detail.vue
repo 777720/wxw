@@ -205,6 +205,7 @@ export default {
       swiperTop.controller.control = swiperThumbs
       swiperThumbs.controller.control = swiperTop
     })
+    this.backTop1()
   },
   data () {
     return {
@@ -226,6 +227,12 @@ export default {
           prevEl: '.swiper-button-prev'
         }
       }
+    }
+  },
+  methods: {
+    backTop1 () {
+      document.body.scrollTop = 0
+      document.documentElement.scrollTop = 0
     }
   }
 }
