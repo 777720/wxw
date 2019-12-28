@@ -104,7 +104,7 @@
               <p>
                 2020SS IS COMING
               </p>
-              <div class="hbtn hb-fill-on-rev">VIEW NOW</div>
+              <div class="hbtn hb-fill-on-rev" @click="onJumpOtherFn('whatnewlist')">VIEW NOW</div>
             </div>
             <div class="pd36 bdt">
               <img class="img-fluid" :src="require('../assets/home-img/3.jpg')" alt="">
@@ -160,7 +160,10 @@ export default {
     }
   },
   methods: {
-    callback () {}
+    callback () {},
+    onJumpOtherFn (url) {
+      this.$router.push(`/${url}`)
+    }
   }
 
 }

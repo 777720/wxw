@@ -10,13 +10,15 @@ const products = {
         name: 'ROSE EMBROIDERY DENIM JACKET',
         url: [
           { path: require('../assets/man/m-1-0-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-1-0-z.jpg'), type: 'z' }
+          { path: require('../assets/man/m-1-0-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-0-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|White|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': '44/46/48/50/52'
         },
-        price: 450
+        price: 450,
+        upDate: '2019-5-11'
       },
       {
         id: 'm-1-1',
@@ -24,13 +26,15 @@ const products = {
         name: 'TOMB PRINTED DENIM JACKET',
         url: [
           { path: require('../assets/man/m-1-1-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-1-1-z.jpg'), type: 'z' }
+          { path: require('../assets/man/m-1-1-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-1-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|White|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': '44/46/48/50/52'
         },
-        price: 480
+        price: 480,
+        upDate: '2019-5-15'
       },
       {
         id: 'm-1-2',
@@ -38,13 +42,15 @@ const products = {
         name: 'SPIDER WEB EMBROIDERY DENIM JACKET',
         url: [
           { path: require('../assets/man/m-1-2-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-1-2-z.jpg'), type: 'z' }
+          { path: require('../assets/man/m-1-2-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-2-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|White|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': '44/46/48/50/52'
         },
-        price: 450
+        price: 450,
+        upDate: '2019-5-13'
       },
       {
         id: 'm-1-3',
@@ -52,13 +58,15 @@ const products = {
         name: 'ROSE EMBROIDERY DENIM JACKET',
         url: [
           { path: require('../assets/man/m-1-3-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-1-3-z.jpg'), type: 'z' }
+          { path: require('../assets/man/m-1-3-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-3-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Black|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': '44/46/48/50/52'
         },
-        price: 450
+        price: 450,
+        upDate: '2019-5-12'
       },
       {
         id: 'm-1-4',
@@ -66,13 +74,15 @@ const products = {
         name: 'TOMB PRINTED DENIM JACKET',
         url: [
           { path: require('../assets/man/m-1-4-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-1-4-z.jpg'), type: 'z' }
+          { path: require('../assets/man/m-1-4-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-4-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Black|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': '44/46/48/50/52'
         },
-        price: 480
+        price: 480,
+        upDate: '2019-5-16'
       },
       {
         id: 'm-1-5',
@@ -80,13 +90,15 @@ const products = {
         name: 'SPIDER WEB EMBROIDERY DENIM JACKET',
         url: [
           { path: require('../assets/man/m-1-5-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-1-5-z.jpg'), type: 'z' }
+          { path: require('../assets/man/m-1-5-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-5-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Black|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': '44/46/48/50/52'
         },
-        price: 450
+        price: 450,
+        upDate: '2019-5-14'
       },
       {
         id: 'm-1-6',
@@ -94,13 +106,15 @@ const products = {
         name: 'SNOW MOUNTAIN PRINT SHEARLING JACKET',
         url: [
           { path: require('../assets/man/m-1-6-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-1-6-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-1-6-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-1-6-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '38%  Virgin wool|33%  Acrylic|29% Polyester|Lining: 100% Polyamide|White|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': '1/2/3'
         },
-        price: 480
+        price: 480,
+        upDate: '2019-6-29'
       },
       {
         id: 'm-1-7',
@@ -108,13 +122,15 @@ const products = {
         name: 'SEASCAPE PRINT SHEARLING JACKET',
         url: [
           { path: require('../assets/man/m-1-7-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-1-7-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-1-7-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-1-7-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '38%  Virgin wool|33%  Acrylic|29% Polyester|Lining: 100% Polyamide|Black|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': '1/2/3'
         },
-        price: 480
+        price: 480,
+        upDate: '2019-7-1'
       },
       {
         id: 'm-1-8',
@@ -122,13 +138,15 @@ const products = {
         name: 'MORNING GLOW PRINT SHEARLING JACKET',
         url: [
           { path: require('../assets/man/m-1-8-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-1-8-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-1-8-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-1-8-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '38%  Virgin wool|33%  Acrylic|29% Polyester|Lining: 100% Polyamide|Green|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': '1/2/3'
         },
-        price: 480
+        price: 480,
+        upDate: '2019-7-2'
       },
       {
         id: 'm-1-9',
@@ -136,13 +154,15 @@ const products = {
         name: 'SUNSET PRINT SHEARLING JACKET',
         url: [
           { path: require('../assets/man/m-1-9-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-1-9-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-1-9-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-1-9-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '38%  Virgin wool|33%  Acrylic|29% Polyester|Lining: 100% Polyamide|Camel|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': '1/2/3'
         },
-        price: 480
+        price: 480,
+        upDate: '2019-6-30'
       }
     ],
     [
@@ -152,13 +172,15 @@ const products = {
         name: 'SNIPER-PRINT HOODED SWEATSHIRT',
         url: [
           { path: require('../assets/man/m-2-0-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-2-0-z.jpg'), type: 'z' }
+          { path: require('../assets/man/m-2-0-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-2-0-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Black|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 360
+        price: 360,
+        upDate: '2019-7-8'
       },
       {
         id: 'm-2-1',
@@ -166,13 +188,15 @@ const products = {
         name: 'SNIPER-PRINT HOODED SWEATSHIRT',
         url: [
           { path: require('../assets/man/m-2-1-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-2-1-z.jpg'), type: 'z' }
+          { path: require('../assets/man/m-2-1-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-2-1-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Black|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 360
+        price: 360,
+        upDate: '2019-7-7'
       },
       {
         id: 'm-2-2',
@@ -180,13 +204,15 @@ const products = {
         name: 'ANDREA MARTIN PRINTED SWEATSHIRT',
         url: [
           { path: require('../assets/man/m-2-2-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-2-2-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-2-2-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-2-2-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|white|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 350
+        price: 350,
+        upDate: '2019-7-11'
       },
       {
         id: 'm-2-3',
@@ -194,13 +220,15 @@ const products = {
         name: 'ANDREA MARTIN PRINTED SWEATSHIRT',
         url: [
           { path: require('../assets/man/m-2-3-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-2-3-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-2-3-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-2-3-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Pink|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 350
+        price: 350,
+        upDate: '2019-7-12'
       },
       {
         id: 'm-2-4',
@@ -208,13 +236,15 @@ const products = {
         name: 'ANDREA MARTIN PRINTED SWEATSHIRT',
         url: [
           { path: require('../assets/man/m-2-4-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-2-4-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-2-4-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-2-4-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Pink|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 350
+        price: 350,
+        upDate: '2019-7-14'
       },
       {
         id: 'm-2-5',
@@ -222,13 +252,15 @@ const products = {
         name: 'ANDREA MARTIN PRINTED SWEATSHIRT',
         url: [
           { path: require('../assets/man/m-2-5-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-2-5-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-2-5-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-2-5-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Pink|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 350
+        price: 350,
+        upDate: '2019-7-13'
       },
       {
         id: 'm-2-6',
@@ -236,13 +268,15 @@ const products = {
         name: 'CONSTELLATION PRINT SWEATSHIRT',
         url: [
           { path: require('../assets/man/m-2-6-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-2-6-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-2-6-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-2-6-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Black|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 350
+        price: 350,
+        upDate: '2019-7-15'
       },
       {
         id: 'm-2-7',
@@ -250,13 +284,15 @@ const products = {
         name: 'CONSTELLATION PRINT SWEATSHIRT',
         url: [
           { path: require('../assets/man/m-2-7-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-2-7-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-2-7-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-2-7-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Black|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 350
+        price: 350,
+        upDate: '2019-7-6'
       },
       {
         id: 'm-2-8',
@@ -264,13 +300,15 @@ const products = {
         name: 'CONSTELLATION PRINT SWEATSHIRT',
         url: [
           { path: require('../assets/man/m-2-8-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-2-8-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-2-8-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-2-8-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Black|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 350
+        price: 350,
+        upDate: '2019-7-13'
       },
       {
         id: 'm-2-9',
@@ -278,13 +316,15 @@ const products = {
         name: 'CONSTELLATION PRINT SWEATSHIRT',
         url: [
           { path: require('../assets/man/m-2-9-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-2-9-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-2-9-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-2-9-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Black|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 350
+        price: 350,
+        upDate: '2019-7-4'
       }
     ],
     [
@@ -294,13 +334,15 @@ const products = {
         name: 'WHITE TWEED/DENIM SHIRT',
         url: [
           { path: require('../assets/man/m-3-0-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-3-0-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-3-0-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-3-0-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '70% Cotton|22% Archylic|5% Polyamide|2% Polyester|1% Wool|White|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 320
+        price: 320,
+        upDate: '2019-6-18'
       },
       {
         id: 'm-3-1',
@@ -308,13 +350,15 @@ const products = {
         name: 'MULTICOLOR&WHITE TWEED/DENIM SHIRT',
         url: [
           { path: require('../assets/man/m-3-1-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-3-1-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-3-1-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-3-1-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '70% Cotton|22% Archylic|5% Polyamide|2% Polyester|1% Wool|Multicolor/white|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 320
+        price: 320,
+        upDate: '2019-6-19'
       },
       {
         id: 'm-3-2',
@@ -322,13 +366,15 @@ const products = {
         name: 'PINK&WHITE TWEED/DENIM SHIRT',
         url: [
           { path: require('../assets/man/m-3-2-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-3-2-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-3-2-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-3-2-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '70% Cotton|22% Archylic|5% Polyamide|2% Polyester|1% Wool|Pink/white|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 320
+        price: 320,
+        upDate: '2019-6-17'
       },
       {
         id: 'm-3-3',
@@ -336,13 +382,15 @@ const products = {
         name: 'BLACK&WHITE TWEED/DENIM SHIRT',
         url: [
           { path: require('../assets/man/m-3-3-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-3-3-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-3-3-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-3-3-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '70% Cotton|22% Archylic|5% Polyamide|2% Polyester|1% Wool|Black/white|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 320
+        price: 320,
+        upDate: '2019-6-14'
       },
       {
         id: 'm-3-4',
@@ -350,13 +398,15 @@ const products = {
         name: 'BLACK TWEED/DENIM SHIRT',
         url: [
           { path: require('../assets/man/m-3-4-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-3-4-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-3-4-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-3-4-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '70% Cotton|22% Archylic|5% Polyamide|2% Polyester|1% Wool|Black|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 320
+        price: 320,
+        upDate: '2019-6-15'
       },
       {
         id: 'm-3-5',
@@ -364,13 +414,15 @@ const products = {
         name: 'BLACK&BLUE TWEED/DENIM SHIRT',
         url: [
           { path: require('../assets/man/m-3-5-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-3-5-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-3-5-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-3-5-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '70% Cotton|22% Archylic|5% Polyamide|2% Polyester|1% Wool|Black/blue|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 320
+        price: 320,
+        upDate: '2019-6-16'
       },
       {
         id: 'm-3-6',
@@ -378,13 +430,15 @@ const products = {
         name: 'SNIPER PRINTED SHORT SLEEVE SHIRT',
         url: [
           { path: require('../assets/man/m-3-6-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-3-6-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-3-6-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-3-6-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Black|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 320
+        price: 320,
+        upDate: '2019-5-22'
       }
     ],
     [
@@ -394,13 +448,15 @@ const products = {
         name: 'SPACESHIP PRINTED T-SHIRT',
         url: [
           { path: require('../assets/man/m-4-0-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-4-0-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-4-0-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-4-0-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L/XL'
         },
-        price: 270
+        price: 270,
+        upDate: '2019-4-28'
       },
       {
         id: 'm-4-1',
@@ -408,13 +464,15 @@ const products = {
         name: 'TRANSFORMER PRINTED T-SHIRT',
         url: [
           { path: require('../assets/man/m-4-1-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-4-1-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-4-1-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-4-1-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L/XL'
         },
-        price: 270
+        price: 270,
+        upDate: '2019-4-26'
       },
       {
         id: 'm-4-2',
@@ -422,13 +480,15 @@ const products = {
         name: 'ROCKET PRINTED T-SHIRT',
         url: [
           { path: require('../assets/man/m-4-2-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-4-2-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-4-2-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-4-2-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L/XL'
         },
-        price: 270
+        price: 270,
+        upDate: '2019-4-22'
       },
       {
         id: 'm-4-3',
@@ -436,13 +496,15 @@ const products = {
         name: 'ALIEN PRINTED T-SHIRT',
         url: [
           { path: require('../assets/man/m-4-3-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-4-3-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-4-3-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-4-3-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L/XL'
         },
-        price: 270
+        price: 270,
+        upDate: '2019-4-24'
       },
       {
         id: 'm-4-4',
@@ -450,13 +512,15 @@ const products = {
         name: 'ASTRONAUT PRINTED T-SHIRT',
         url: [
           { path: require('../assets/man/m-4-4-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-4-4-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-4-4-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-4-4-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L/XL'
         },
-        price: 270
+        price: 270,
+        upDate: '2019-4-20'
       },
       {
         id: 'm-4-5',
@@ -464,13 +528,15 @@ const products = {
         name: 'BASIC PRINTED LONG SLEEVE T-SHIRT',
         url: [
           { path: require('../assets/man/m-4-5-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-4-5-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-4-5-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-4-5-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|White|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-4-29'
       },
       {
         id: 'm-4-6',
@@ -478,13 +544,15 @@ const products = {
         name: 'BASIC PRINTED LONG SLEEVE T-SHIRT',
         url: [
           { path: require('../assets/man/m-4-6-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-4-6-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-4-6-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-4-6-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Black|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-4-30'
       },
       {
         id: 'm-4-7',
@@ -492,13 +560,15 @@ const products = {
         name: 'BASIC PRINTED LONG SLEEVE T-SHIRT',
         url: [
           { path: require('../assets/man/m-4-7-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-4-7-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-4-7-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-4-7-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Red|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-5-2'
       },
       {
         id: 'm-4-8',
@@ -506,13 +576,15 @@ const products = {
         name: 'BASIC PRINTED LONG SLEEVE T-SHIRT',
         url: [
           { path: require('../assets/man/m-4-8-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-4-8-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-4-8-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-4-8-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Green|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-5-1'
       },
       {
         id: 'm-4-9',
@@ -520,13 +592,15 @@ const products = {
         name: 'SPACESHIP PRINTED T-SHIRT',
         url: [
           { path: require('../assets/man/m-4-9-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-4-9-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-4-9-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-4-9-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Black|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 270
+        price: 270,
+        upDate: '2019-4-27'
       },
       {
         id: 'm-4-10',
@@ -534,13 +608,15 @@ const products = {
         name: 'TRANSFORMER PRINTED T-SHIRT',
         url: [
           { path: require('../assets/man/m-4-10-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-4-10-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-4-10-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-4-10-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Black|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L/XL'
         },
-        price: 270
+        price: 270,
+        upDate: '2019-4-25'
       },
       {
         id: 'm-4-11',
@@ -548,13 +624,15 @@ const products = {
         name: 'ROCKET PRINTED T-SHIRT',
         url: [
           { path: require('../assets/man/m-4-11-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-4-11-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-4-11-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-4-11-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Black|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L/XL'
         },
-        price: 270
+        price: 270,
+        upDate: '2019-4-21'
       },
       {
         id: 'm-4-12',
@@ -562,13 +640,15 @@ const products = {
         name: 'ALIEN PRINTED T-SHIRT',
         url: [
           { path: require('../assets/man/m-4-12-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-4-12-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-4-12-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-4-12-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Black|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L/XL'
         },
-        price: 270
+        price: 270,
+        upDate: '2019-4-23'
       },
       {
         id: 'm-4-13',
@@ -576,13 +656,15 @@ const products = {
         name: 'ASTRONAUT PRINTED T-SHIRT',
         url: [
           { path: require('../assets/man/m-4-13-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-4-13-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-4-13-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-4-13-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Black|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L/XL'
         },
-        price: 270
+        price: 270,
+        upDate: '2019-4-19'
       }
     ]
   ],
@@ -597,13 +679,15 @@ const products = {
         name: 'KNITTED CARDIGAN/ NOTE',
         url: [
           { path: require('../assets/women/w-1-0-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-1-0-f.jpg'), type: 'f' }
+          { path: require('../assets/women/w-1-0-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-1-0-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '55% Cotton|38% Polyamide|7% Silk|White|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 490
+        price: 490,
+        upDate: '2019-7-10'
       },
       {
         id: 'w-1-1',
@@ -611,13 +695,15 @@ const products = {
         name: 'KNITTED CARDIGAN/ NOTE',
         url: [
           { path: require('../assets/women/w-1-1-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-1-1-f.jpg'), type: 'f' }
+          { path: require('../assets/women/w-1-1-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-1-1-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '55% Cotton|38% Polyamide|7% Silk|Black|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 490
+        price: 490,
+        upDate: '2019-7-9'
       }
     ],
     [
@@ -627,13 +713,15 @@ const products = {
         name: 'RHINESTONE-EMBELLISHED JUMPER',
         url: [
           { path: require('../assets/women/w-2-0-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-2-0-f.jpg'), type: 'f' }
+          { path: require('../assets/women/w-2-0-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-2-0-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '35%  KID MOHAIR|33% POLYAMIDE|19% WOOL|13% POLYPROPYLENE|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 320
+        price: 320,
+        upDate: '2019-7-21'
       },
       {
         id: 'w-2-1',
@@ -641,13 +729,15 @@ const products = {
         name: 'RHINESTONE-EMBELLISHED JUMPER',
         url: [
           { path: require('../assets/women/w-2-1-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-2-1-f.jpg'), type: 'f' }
+          { path: require('../assets/women/w-2-1-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-2-1-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '35%  KID MOHAIR|33% POLYAMIDE|19% WOOL|13% POLYPROPYLENE|Grey|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 320
+        price: 320,
+        upDate: '2019-7-22'
       },
       {
         id: 'w-2-2',
@@ -657,6 +747,7 @@ const products = {
           { path: require('../assets/women/w-2-2-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-2-2-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-2-2-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-2-2-t.jpg'), type: 'z' },
           { path: require('../assets/women/w-2-2-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-2-2-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-2-2-4.jpg'), type: 'n' }
@@ -665,7 +756,8 @@ const products = {
           'features': '60% KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M'
         },
-        price: 480
+        price: 480,
+        upDate: '2019-5-20'
       },
       {
         id: 'w-2-3',
@@ -675,6 +767,7 @@ const products = {
           { path: require('../assets/women/w-3-1-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-3-1-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-3-1-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-2-3-t.jpg'), type: 't' },
           { path: require('../assets/women/w-3-1-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-3-1-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-3-1-4.jpg'), type: 'n' }
@@ -683,7 +776,8 @@ const products = {
           'features': '60% KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M'
         },
-        price: 480
+        price: 480,
+        upDate: '2019-5-18'
       },
       {
         id: 'w-2-4',
@@ -693,6 +787,7 @@ const products = {
           { path: require('../assets/women/w-3-2-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-3-2-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-3-2-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-2-4-t.jpg'), type: 't' },
           { path: require('../assets/women/w-3-2-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-3-2-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-3-2-4.jpg'), type: 'n' }
@@ -701,7 +796,8 @@ const products = {
           'features': '60% KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|Pink|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M'
         },
-        price: 480
+        price: 480,
+        upDate: '2019-5-19'
       },
       {
         id: 'w-2-4(1)',
@@ -711,6 +807,7 @@ const products = {
           { path: require('../assets/women/w-3-3-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-3-3-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-3-3-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-2-4(1)-t.jpg'), type: 't' },
           { path: require('../assets/women/w-3-3-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-3-3-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-3-3-4.jpg'), type: 'n' }
@@ -719,7 +816,8 @@ const products = {
           'features': '60% KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|Blue|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M'
         },
-        price: 480
+        price: 480,
+        upDate: '2019-5-17'
       },
       {
         id: 'w-2-5',
@@ -729,6 +827,7 @@ const products = {
           { path: require('../assets/women/w-3-4-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-3-4-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-3-4-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-2-5-t.jpg'), type: 't' },
           { path: require('../assets/women/w-3-4-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-3-4-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-3-4-4.jpg'), type: 'n' }
@@ -737,7 +836,8 @@ const products = {
           'features': '60% KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|Multicolor|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M'
         },
-        price: 480
+        price: 480,
+        upDate: '2019-5-21'
       },
       {
         id: 'w-2-6',
@@ -745,13 +845,15 @@ const products = {
         name: 'HIGH NECK STRIPES KNITTED CARDIGAN',
         url: [
           { path: require('../assets/women/w-2-6-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-2-6-f.jpg'), type: 'f' }
+          { path: require('../assets/women/w-2-6-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-2-6-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '60%  KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|Blue/White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 320
+        price: 320,
+        upDate: '2019-6-12'
       },
       {
         id: 'w-2-7',
@@ -759,13 +861,15 @@ const products = {
         name: 'HIGH NECK STRIPES KNITTED CARDIGAN',
         url: [
           { path: require('../assets/women/w-2-7-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-2-7-f.jpg'), type: 'f' }
+          { path: require('../assets/women/w-2-7-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-2-7-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '60%  KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|Green/White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 320
+        price: 320,
+        upDate: '2019-6-13'
       },
       {
         id: 'w-2-8',
@@ -773,13 +877,15 @@ const products = {
         name: 'HIGH NECK STRIPES KNITTED CARDIGAN',
         url: [
           { path: require('../assets/women/w-2-8-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-2-8-f.jpg'), type: 'f' }
+          { path: require('../assets/women/w-2-8-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-2-8-z.jpg'), type: 'z' }
         ],
         detail: {
           'features': '60%  KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|Purple/White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 320
+        price: 320,
+        upDate: '2019-6-11'
       },
       {
         id: 'w-2-9',
@@ -787,13 +893,15 @@ const products = {
         name: 'HIGH NECK STRIPES KNITTED CARDIGAN',
         url: [
           { path: require('../assets/women/w-2-9-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-2-9-f.jpg'), type: 'f' }
+          { path: require('../assets/women/w-2-9-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-2-9-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '60%  KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|Black/white|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 320
+        price: 320,
+        upDate: '2019-6-10'
       },
       {
         id: 'w-2-10',
@@ -801,92 +909,18 @@ const products = {
         name: 'HIGH NECK STRIPES KNITTED CARDIGAN',
         url: [
           { path: require('../assets/women/w-2-10-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-2-10-f.jpg'), type: 'f' }
+          { path: require('../assets/women/w-2-10-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-2-10-z.jpg'), type: 'z' }
         ],
         detail: {
           'features': '60%  KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|Green/red|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 320
+        price: 320,
+        upDate: '2019-6-9'
       }
     ],
     [
-      {
-        id: 'w-3-5',
-        chineseName: '星座卫衣-0716',
-        name: 'CONSTELLATION PRINT SWEATSHIRT',
-        url: [
-          { path: require('../assets/women/w-3-5-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-3-5-f.jpg'), type: 'f' },
-          { path: require('../assets/women/w-3-5-1.jpg'), type: 'n' },
-          { path: require('../assets/women/w-3-5-2.jpg'), type: 'n' },
-          { path: require('../assets/women/w-3-5-3.jpg'), type: 'n' },
-          { path: require('../assets/women/w-3-5-4.jpg'), type: 'n' },
-          { path: require('../assets/women/w-3-5-5.jpg'), type: 'n' }
-        ],
-        detail: {
-          'features': '100% Cotton|White|Regular fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
-          'size': 'XS/S/M/L'
-        },
-        price: 350
-      },
-      {
-        id: 'w-3-6',
-        chineseName: '星座卫衣-0985',
-        name: 'CONSTELLATION PRINT SWEATSHIRT',
-        url: [
-          { path: require('../assets/women/w-3-6-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-3-6-f.jpg'), type: 'f' },
-          { path: require('../assets/women/w-3-6-1.jpg'), type: 'n' },
-          { path: require('../assets/women/w-3-6-2.jpg'), type: 'n' },
-          { path: require('../assets/women/w-3-6-3.jpg'), type: 'n' },
-          { path: require('../assets/women/w-3-6-4.jpg'), type: 'n' },
-          { path: require('../assets/women/w-3-6-5.jpg'), type: 'n' }
-        ],
-        detail: {
-          'features': '100% Cotton|White|Regular fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
-          'size': 'XS/S/M/L'
-        },
-        price: 350
-      },
-      {
-        id: 'w-3-7',
-        chineseName: '星座卫衣-4683',
-        name: 'CONSTELLATION PRINT SWEATSHIRT',
-        url: [
-          { path: require('../assets/women/w-3-7-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-3-7-f.jpg'), type: 'f' },
-          { path: require('../assets/women/w-3-7-1.jpg'), type: 'n' },
-          { path: require('../assets/women/w-3-7-2.jpg'), type: 'n' },
-          { path: require('../assets/women/w-3-7-3.jpg'), type: 'n' },
-          { path: require('../assets/women/w-3-7-4.jpg'), type: 'n' },
-          { path: require('../assets/women/w-3-7-5.jpg'), type: 'n' }
-        ],
-        detail: {
-          'features': '100% Cotton|White|Regular fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
-          'size': 'XS/S/M/L'
-        },
-        price: 350
-      },
-      {
-        id: 'w-3-8',
-        chineseName: '星座卫衣-5173',
-        name: 'CONSTELLATION PRINT SWEATSHIRT',
-        url: [
-          { path: require('../assets/women/w-3-8-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-3-8-f.jpg'), type: 'f' },
-          { path: require('../assets/women/w-3-8-1.jpg'), type: 'n' },
-          { path: require('../assets/women/w-3-8-2.jpg'), type: 'n' },
-          { path: require('../assets/women/w-3-8-3.jpg'), type: 'n' },
-          { path: require('../assets/women/w-3-8-4.jpg'), type: 'n' },
-          { path: require('../assets/women/w-3-8-5.jpg'), type: 'n' }
-        ],
-        detail: {
-          'features': '100% Cotton|White|Regular fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
-          'size': 'XS/S/M/L'
-        },
-        price: 350
-      },
       {
         id: 'w-3-9',
         chineseName: '露肩帽衫-白色',
@@ -895,6 +929,7 @@ const products = {
           { path: require('../assets/women/w-3-9-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-3-9-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-3-9-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-3-9-t.jpg'), type: 't' },
           { path: require('../assets/women/w-3-9-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-3-9-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-3-9-4.jpg'), type: 'n' }
@@ -903,7 +938,8 @@ const products = {
           'features': '100% Cotton|White|Regular fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 360
+        price: 360,
+        upDate: '2019-6-5'
       },
       {
         id: 'w-3-10',
@@ -913,6 +949,7 @@ const products = {
           { path: require('../assets/women/w-3-10-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-3-10-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-3-10-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-3-10-t.jpg'), type: 't' },
           { path: require('../assets/women/w-3-10-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-3-10-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-3-10-4.jpg'), type: 'n' }
@@ -921,7 +958,8 @@ const products = {
           'features': '100% Cotton|Black|Regular fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 360
+        price: 360,
+        upDate: '2019-6-7'
       },
       {
         id: 'w-3-11',
@@ -931,6 +969,7 @@ const products = {
           { path: require('../assets/women/w-3-11-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-3-11-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-3-11-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-3-11-t.jpg'), type: 't' },
           { path: require('../assets/women/w-3-11-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-3-11-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-3-11-4.jpg'), type: 'n' }
@@ -939,7 +978,8 @@ const products = {
           'features': '100% Cotton|Grey|Regular fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 360
+        price: 360,
+        upDate: '2019-6-6'
       },
       {
         id: 'w-3-12',
@@ -949,6 +989,7 @@ const products = {
           { path: require('../assets/women/w-3-12-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-3-12-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-3-12-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-3-12-t.jpg'), type: 't' },
           { path: require('../assets/women/w-3-12-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-3-12-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-3-12-4.jpg'), type: 'n' }
@@ -957,7 +998,8 @@ const products = {
           'features': '100% Cotton|Light blue|Regular fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 360
+        price: 360,
+        upDate: '2019-6-8'
       },
       {
         id: 'w-3-13',
@@ -965,13 +1007,15 @@ const products = {
         name: 'STRIPES LONG SLEEVE POLO SHIRT',
         url: [
           { path: require('../assets/women/w-3-13-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-3-13-f.jpg'), type: 'f' }
+          { path: require('../assets/women/w-3-13-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-3-13-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|White/green|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 290
+        price: 290,
+        upDate: '2019-5-24'
       },
       {
         id: 'w-3-14',
@@ -979,13 +1023,15 @@ const products = {
         name: 'STRIPES LONG SLEEVE POLO SHIRT',
         url: [
           { path: require('../assets/women/w-3-14-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-3-14-f.jpg'), type: 'f' }
+          { path: require('../assets/women/w-3-14-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-3-14-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Black/red|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 290
+        price: 290,
+        upDate: '2019-5-25'
       },
       {
         id: 'w-3-15',
@@ -993,13 +1039,15 @@ const products = {
         name: 'STRIPES LONG SLEEVE POLO SHIRT',
         url: [
           { path: require('../assets/women/w-3-15-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-3-15-f.jpg'), type: 'f' }
+          { path: require('../assets/women/w-3-15-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-3-15-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Blue/pink|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 290
+        price: 290,
+        upDate: '2019-5-26'
       },
       {
         id: 'w-3-16',
@@ -1007,13 +1055,15 @@ const products = {
         name: 'STRIPES LONG SLEEVE POLO SHIRT',
         url: [
           { path: require('../assets/women/w-3-16-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-3-16-f.jpg'), type: 'f' }
+          { path: require('../assets/women/w-3-16-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-3-16-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Green/pink|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 290
+        price: 290,
+        upDate: '2019-5-27'
       },
       {
         id: 'w-3-17',
@@ -1023,6 +1073,7 @@ const products = {
           { path: require('../assets/women/w-3-17-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-3-17-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-3-17-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-3-17-t.jpg'), type: 't' },
           { path: require('../assets/women/w-3-17-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-3-17-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-3-17-4.jpg'), type: 'n' }
@@ -1031,7 +1082,8 @@ const products = {
           'features': '100% Cotton|White|Oversized fit|Model wears a M size|Model measurements : chest 75 cm, height 179 cm\nRegular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 320
+        price: 320,
+        upDate: '2019-5-29'
       },
       {
         id: 'w-3-18',
@@ -1041,6 +1093,7 @@ const products = {
           { path: require('../assets/women/w-3-18-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-3-18-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-3-18-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-3-18-t.jpg'), type: 't' },
           { path: require('../assets/women/w-3-18-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-3-18-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-3-18-4.jpg'), type: 'n' },
@@ -1050,7 +1103,8 @@ const products = {
           'features': '100% Cotton|Pink|Oversized fit|Model wears a M size|Model measurements : chest 75 cm, height 179 cm\nRegular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 320
+        price: 320,
+        upDate: '2019-5-28'
       },
       {
         id: 'w-3-19',
@@ -1060,6 +1114,7 @@ const products = {
           { path: require('../assets/women/w-3-19-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-3-19-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-3-19-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-3-19-t.jpg'), type: 't' },
           { path: require('../assets/women/w-3-19-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-3-19-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-3-19-4.jpg'), type: 'n' },
@@ -1069,7 +1124,8 @@ const products = {
           'features': '100% Cotton|Black|Oversized fit|Model wears a M size|Model measurements : chest 75 cm, height 179 cm\nRegular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 320
+        price: 320,
+        upDate: '2019-5-30'
       },
       {
         id: 'w-3-20',
@@ -1077,13 +1133,15 @@ const products = {
         name: 'DESSERT-PATCH SWEATSHIRT',
         url: [
           { path: require('../assets/women/w-3-20-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-3-20-f.jpg'), type: 'f' }
+          { path: require('../assets/women/w-3-20-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-3-20-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Yellow|Oversized fit|Model wears a M size|Model measurements : chest 75 cm, height 179 cm\nRegular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 320
+        price: 320,
+        upDate: '2019-5-31'
       },
       {
         id: 'w-3-21',
@@ -1093,6 +1151,7 @@ const products = {
           { path: require('../assets/women/w-3-21-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-3-21-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-3-21-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-3-21-t.jpg'), type: 't' },
           { path: require('../assets/women/w-3-21-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-3-21-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-3-21-4.jpg'), type: 'n' },
@@ -1102,7 +1161,8 @@ const products = {
           'features': '100% Cotton|Green|Oversized fit|Model wears a M size|Model measurements : chest 75 cm, height 179 cm\nRegular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 320
+        price: 320,
+        upDate: '2019-6-1'
       }
     ],
     [
@@ -1114,6 +1174,7 @@ const products = {
           { path: require('../assets/women/w-4-0-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-4-0-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-4-0-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-4-0-t.jpg'), type: 't' },
           { path: require('../assets/women/w-4-0-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-0-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-0-4.jpg'), type: 'n' }
@@ -1122,7 +1183,8 @@ const products = {
           'features': '100% Cotton|White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-4-2'
       },
       {
         id: 'w-4-1',
@@ -1132,6 +1194,7 @@ const products = {
           { path: require('../assets/women/w-4-1-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-4-1-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-4-1-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-4-1-t.jpg'), type: 't' },
           { path: require('../assets/women/w-4-1-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-1-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-1-4.jpg'), type: 'n' }
@@ -1140,7 +1203,8 @@ const products = {
           'features': '100% Cotton|White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-4-18'
       },
       {
         id: 'w-4-2',
@@ -1150,6 +1214,7 @@ const products = {
           { path: require('../assets/women/w-4-2-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-4-2-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-4-2-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-4-2-t.jpg'), type: 't' },
           { path: require('../assets/women/w-4-2-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-2-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-2-4.jpg'), type: 'n' }
@@ -1158,7 +1223,8 @@ const products = {
           'features': '100% Cotton|White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-4-12'
       },
       {
         id: 'w-4-3',
@@ -1168,6 +1234,7 @@ const products = {
           { path: require('../assets/women/w-4-3-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-4-3-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-4-3-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-4-3-t.jpg'), type: 't' },
           { path: require('../assets/women/w-4-3-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-3-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-3-4.jpg'), type: 'n' }
@@ -1176,7 +1243,8 @@ const products = {
           'features': '100% Cotton|White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-4-16'
       },
       {
         id: 'w-4-4',
@@ -1186,6 +1254,7 @@ const products = {
           { path: require('../assets/women/w-4-4-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-4-4-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-4-4-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-4-4-t.jpg'), type: 't' },
           { path: require('../assets/women/w-4-4-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-4-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-4-4.jpg'), type: 'n' }
@@ -1194,7 +1263,8 @@ const products = {
           'features': '100% Cotton|White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-4-10'
       },
       {
         id: 'w-4-5',
@@ -1204,6 +1274,7 @@ const products = {
           { path: require('../assets/women/w-4-5-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-4-5-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-4-5-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-4-5-t.jpg'), type: 't' },
           { path: require('../assets/women/w-4-5-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-5-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-5-4.jpg'), type: 'n' }
@@ -1212,7 +1283,8 @@ const products = {
           'features': '100% Cotton|White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-4-14'
       },
       {
         id: 'w-4-6',
@@ -1222,6 +1294,7 @@ const products = {
           { path: require('../assets/women/w-4-6-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-4-6-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-4-6-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-4-6-t.jpg'), type: 't' },
           { path: require('../assets/women/w-4-6-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-6-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-6-4.jpg'), type: 'n' }
@@ -1230,7 +1303,8 @@ const products = {
           'features': '100% Cotton|White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-4-6'
       },
       {
         id: 'w-4-7',
@@ -1240,6 +1314,7 @@ const products = {
           { path: require('../assets/women/w-4-7-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-4-7-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-4-7-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-4-7-t.jpg'), type: 't' },
           { path: require('../assets/women/w-4-7-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-7-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-7-4.jpg'), type: 'n' }
@@ -1248,7 +1323,8 @@ const products = {
           'features': '100% Cotton|White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-4-8'
       },
       {
         id: 'w-4-8',
@@ -1258,6 +1334,7 @@ const products = {
           { path: require('../assets/women/w-4-8-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-4-8-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-4-8-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-4-8-t.jpg'), type: 't' },
           { path: require('../assets/women/w-4-8-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-8-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-8-4.jpg'), type: 'n' }
@@ -1266,7 +1343,8 @@ const products = {
           'features': '100% Cotton|White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-4-4'
       },
       {
         id: 'w-4-9',
@@ -1276,6 +1354,7 @@ const products = {
           { path: require('../assets/women/w-4-9-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-4-9-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-4-9-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-4-9-t.jpg'), type: 't' },
           { path: require('../assets/women/w-4-9-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-9-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-9-4.jpg'), type: 'n' }
@@ -1284,7 +1363,8 @@ const products = {
           'features': '100% Cotton|Black|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-4-1'
       },
       {
         id: 'w-4-10',
@@ -1294,6 +1374,7 @@ const products = {
           { path: require('../assets/women/w-4-10-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-4-10-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-4-10-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-4-10-t.jpg'), type: 't' },
           { path: require('../assets/women/w-4-10-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-10-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-10-4.jpg'), type: 'n' }
@@ -1302,7 +1383,8 @@ const products = {
           'features': '100% Cotton|Black|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-4-17'
       },
       {
         id: 'w-4-11',
@@ -1312,6 +1394,7 @@ const products = {
           { path: require('../assets/women/w-4-11-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-4-11-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-4-11-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-4-11-t.jpg'), type: 't' },
           { path: require('../assets/women/w-4-11-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-11-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-11-4.jpg'), type: 'n' }
@@ -1320,7 +1403,8 @@ const products = {
           'features': '100% Cotton|Black|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-4-11'
       },
       {
         id: 'w-4-12',
@@ -1330,6 +1414,7 @@ const products = {
           { path: require('../assets/women/w-4-12-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-4-12-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-4-12-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-4-12-t.jpg'), type: 't' },
           { path: require('../assets/women/w-4-12-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-12-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-12-4.jpg'), type: 'n' }
@@ -1338,7 +1423,8 @@ const products = {
           'features': '100% Cotton|Black|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-4-15'
       },
       {
         id: 'w-4-13',
@@ -1348,6 +1434,7 @@ const products = {
           { path: require('../assets/women/w-4-13-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-4-13-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-4-13-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-4-13-t.jpg'), type: 't' },
           { path: require('../assets/women/w-4-13-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-13-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-13-4.jpg'), type: 'n' }
@@ -1356,7 +1443,8 @@ const products = {
           'features': '100% Cotton|Black|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-4-9'
       },
       {
         id: 'w-4-14',
@@ -1366,6 +1454,7 @@ const products = {
           { path: require('../assets/women/w-4-14-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-4-14-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-4-14-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-4-14-t.jpg'), type: 't' },
           { path: require('../assets/women/w-4-14-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-14-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-14-4.jpg'), type: 'n' }
@@ -1374,7 +1463,8 @@ const products = {
           'features': '100% Cotton|Black|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-4-13'
       },
       {
         id: 'w-4-15',
@@ -1384,6 +1474,7 @@ const products = {
           { path: require('../assets/women/w-4-15-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-4-15-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-4-15-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-4-15-t.jpg'), type: 't' },
           { path: require('../assets/women/w-4-15-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-15-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-15-4.jpg'), type: 'n' }
@@ -1392,7 +1483,8 @@ const products = {
           'features': '100% Cotton|Black|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-4-5'
       },
       {
         id: 'w-4-16',
@@ -1402,6 +1494,7 @@ const products = {
           { path: require('../assets/women/w-4-16-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-4-16-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-4-16-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-4-16-t.jpg'), type: 't' },
           { path: require('../assets/women/w-4-16-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-16-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-16-4.jpg'), type: 'n' }
@@ -1410,7 +1503,8 @@ const products = {
           'features': '100% Cotton|Black|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-4-7'
       },
       {
         id: 'w-4-17',
@@ -1420,6 +1514,7 @@ const products = {
           { path: require('../assets/women/w-4-17-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-4-17-f.jpg'), type: 'f' },
           { path: require('../assets/women/w-4-17-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-4-17-t.jpg'), type: 't' },
           { path: require('../assets/women/w-4-17-2.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-17-3.jpg'), type: 'n' },
           { path: require('../assets/women/w-4-17-4.jpg'), type: 'n' }
@@ -1428,268 +1523,8 @@ const products = {
           'features': '100% Cotton|Black|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
-      },
-      {
-        id: 'w-4-18',
-        chineseName: '白色科幻短袖-白色飞船',
-        name: 'SPACESHIP PRINTED T-SHIRT',
-        url: [
-          { path: require('../assets/women/w-4-18-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-4-18-f.jpg'), type: 'f' },
-          { path: require('../assets/women/w-4-18-1.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-18-2.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-18-3.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-18-4.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-18-5.jpg'), type: 'n' }
-        ],
-        detail: {
-          'features': '100% Cotton|White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
-          'size': 'XS/S/M/L/XL'
-        },
-        price: 270
-      },
-      {
-        id: 'w-4-19',
-        chineseName: '白色科幻短袖-白色高达',
-        name: 'TRANSFORMER PRINTED T-SHIRT',
-        url: [
-          { path: require('../assets/women/w-4-19-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-4-19-f.jpg'), type: 'f' },
-          { path: require('../assets/women/w-4-19-1.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-19-2.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-19-3.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-19-4.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-19-5.jpg'), type: 'n' }
-        ],
-        detail: {
-          'features': '100% Cotton|White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
-          'size': 'XS/S/M/L/XL'
-        },
-        price: 270
-      },
-      {
-        id: 'w-4-20',
-        chineseName: '白色科幻短袖-白色火箭',
-        name: 'ROCKET PRINTED T-SHIRT',
-        url: [
-          { path: require('../assets/women/w-4-20-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-4-20-f.jpg'), type: 'f' },
-          { path: require('../assets/women/w-4-20-1.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-20-2.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-20-3.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-20-4.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-20-5.jpg'), type: 'n' }
-        ],
-        detail: {
-          'features': '100% Cotton|White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
-          'size': 'XS/S/M/L/XL'
-        },
-        price: 270
-      },
-      {
-        id: 'w-4-21',
-        chineseName: '白色科幻短袖-白色外星人',
-        name: 'ALIEN PRINTED T-SHIRT',
-        url: [
-          { path: require('../assets/women/w-4-21-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-4-21-f.jpg'), type: 'f' },
-          { path: require('../assets/women/w-4-21-1.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-21-2.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-21-3.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-21-4.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-21-5.jpg'), type: 'n' }
-        ],
-        detail: {
-          'features': '100% Cotton|White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
-          'size': 'XS/S/M/L/XL'
-        },
-        price: 270
-      },
-      {
-        id: 'w-4-22',
-        chineseName: '白色科幻短袖-白色宇航员',
-        name: 'ASTRONAUT PRINTED T-SHIRT',
-        url: [
-          { path: require('../assets/women/w-4-22-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-4-22-f.jpg'), type: 'f' },
-          { path: require('../assets/women/w-4-22-1.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-22-2.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-22-3.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-22-4.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-21-5.jpg'), type: 'n' }
-        ],
-        detail: {
-          'features': '100% Cotton|White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
-          'size': 'XS/S/M/L/XL'
-        },
-        price: 270
-      },
-      {
-        id: 'w-4-23',
-        chineseName: '黑色科幻短袖-黑色飞船',
-        name: 'SPACESHIP PRINTED T-SHIRT',
-        url: [
-          { path: require('../assets/women/w-4-23-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-4-23-f.jpg'), type: 'f' },
-          { path: require('../assets/women/w-4-23-1.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-23-2.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-23-3.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-23-4.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-23-5.jpg'), type: 'n' }
-        ],
-        detail: {
-          'features': '100% Cotton|Black|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
-          'size': 'XS/S/M/L/XL'
-        },
-        price: 270
-      },
-      {
-        id: 'w-4-24',
-        chineseName: '黑色科幻短袖-黑色高达',
-        name: 'TRANSFORMER PRINTED T-SHIRT',
-        url: [
-          { path: require('../assets/women/w-4-24-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-4-24-f.jpg'), type: 'f' },
-          { path: require('../assets/women/w-4-24-1.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-24-2.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-24-3.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-24-4.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-24-5.jpg'), type: 'n' }
-        ],
-        detail: {
-          'features': '100% Cotton|Black|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
-          'size': 'XS/S/M/L/XL'
-        },
-        price: 270
-      },
-      {
-        id: 'w-4-25',
-        chineseName: '黑色科幻短袖-黑色火箭',
-        name: 'ROCKET PRINTED T-SHIRT',
-        url: [
-          { path: require('../assets/women/w-4-25-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-4-25-f.jpg'), type: 'f' },
-          { path: require('../assets/women/w-4-25-1.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-25-2.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-25-3.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-25-4.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-25-5.jpg'), type: 'n' }
-        ],
-        detail: {
-          'features': '100% Cotton|Black|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
-          'size': 'XS/S/M/L/XL'
-        },
-        price: 270
-      },
-      {
-        id: 'w-4-26',
-        chineseName: '黑色科幻短袖-黑色外星人',
-        name: 'ALIEN PRINTED T-SHIRT',
-        url: [
-          { path: require('../assets/women/w-4-26-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-4-26-f.jpg'), type: 'f' },
-          { path: require('../assets/women/w-4-26-1.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-26-2.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-26-3.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-26-4.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-26-5.jpg'), type: 'n' }
-        ],
-        detail: {
-          'features': '100% Cotton|Black|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
-          'size': 'XS/S/M/L/XL'
-        },
-        price: 270
-      },
-      {
-        id: 'w-4-27',
-        chineseName: '黑色科幻短袖-黑色宇航员',
-        name: 'ASTRONAUT PRINTED T-SHIRT',
-        url: [
-          { path: require('../assets/women/w-4-27-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-4-27-f.jpg'), type: 'f' },
-          { path: require('../assets/women/w-4-27-1.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-27-2.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-27-3.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-27-4.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-27-5.jpg'), type: 'n' }
-        ],
-        detail: {
-          'features': '100% Cotton|Black|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
-          'size': 'XS/S/M/L/XL'
-        },
-        price: 270
-      },
-      {
-        id: 'w-4-32',
-        chineseName: '插画打底-白色',
-        name: 'BASIC PRINTED LONG SLEEVE T-SHIRT',
-        url: [
-          { path: require('../assets/women/w-4-32-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-4-32-f.jpg'), type: 'f' },
-          { path: require('../assets/women/w-4-32-1.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-32-2.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-32-3.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-32-4.jpg'), type: 'n' }
-        ],
-        detail: {
-          'features': '100% Cotton|White|Regular fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
-          'size': 'XS/S/M/L'
-        },
-        price: 205
-      },
-      {
-        id: 'w-4-33',
-        chineseName: '插画打底-黑色',
-        name: 'BASIC PRINTED LONG SLEEVE T-SHIRT',
-        url: [
-          { path: require('../assets/women/w-4-33-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-4-33-f.jpg'), type: 'f' },
-          { path: require('../assets/women/w-4-33-1.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-33-2.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-33-3.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-33-4.jpg'), type: 'n' }
-        ],
-        detail: {
-          'features': '100% Cotton|Black|Regular fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
-          'size': 'XS/S/M/L'
-        },
-        price: 205
-      },
-      {
-        id: 'w-4-34',
-        chineseName: '插画打底-红色',
-        name: 'BASIC PRINTED LONG SLEEVE T-SHIRT',
-        url: [
-          { path: require('../assets/women/w-4-34-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-4-34-f.jpg'), type: 'f' },
-          { path: require('../assets/women/w-4-34-1.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-34-2.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-34-3.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-34-4.jpg'), type: 'n' }
-        ],
-        detail: {
-          'features': '100% Cotton|Red|Regular fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
-          'size': 'XS/S/M/L'
-        },
-        price: 205
-      },
-      {
-        id: 'w-4-35',
-        chineseName: '插画打底-绿色',
-        name: 'BASIC PRINTED LONG SLEEVE T-SHIRT',
-        url: [
-          { path: require('../assets/women/w-4-35-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-4-35-f.jpg'), type: 'f' },
-          { path: require('../assets/women/w-4-35-1.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-35-2.jpg'), type: 'n' },
-          { path: require('../assets/women/w-4-35-4.jpg'), type: 'n' }
-        ],
-        detail: {
-          'features': '100% Cotton|Green|Regular fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
-          'size': 'XS/S/M/L'
-        },
-        price: 205
+        price: 205,
+        upDate: '2019-4-3'
       },
       {
         id: 'w-4-36',
@@ -1697,13 +1532,15 @@ const products = {
         name: 'PRINTED COMBO LONG SLEEVE T-SHIRT',
         url: [
           { path: require('../assets/women/w-4-36-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-4-36-f.jpg'), type: 'f' }
+          { path: require('../assets/women/w-4-36-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-4-36-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|White|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-5-3'
       },
       {
         id: 'w-4-37',
@@ -1711,13 +1548,15 @@ const products = {
         name: 'PRINTED COMBO LONG SLEEVE T-SHIRT',
         url: [
           { path: require('../assets/women/w-4-37-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-4-37-f.jpg'), type: 'f' }
+          { path: require('../assets/women/w-4-37-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-4-37-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Black|Regular fit|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-5-4'
       },
       {
         id: 'w-4-38',
@@ -1725,13 +1564,15 @@ const products = {
         name: 'PRINTED COMBO LONG SLEEVE T-SHIRT',
         url: [
           { path: require('../assets/women/w-4-38-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-4-38-f.jpg'), type: 'f' }
+          { path: require('../assets/women/w-4-38-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-4-38-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Green|Regular fit|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-5-6'
       },
       {
         id: 'w-4-39',
@@ -1739,13 +1580,15 @@ const products = {
         name: 'PRINTED COMBO LONG SLEEVE T-SHIRT',
         url: [
           { path: require('../assets/women/w-4-39-z.jpg'), type: 'z' },
-          { path: require('../assets/women/w-4-39-f.jpg'), type: 'f' }
+          { path: require('../assets/women/w-4-39-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-4-39-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|Camel|Regular fit|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
-        price: 205
+        price: 205,
+        upDate: '2019-5-5'
       },
       {
         id: 'w-4-40',
@@ -1753,15 +1596,16 @@ const products = {
         name: 'SPLASH LONG SLEEVE SHIRT',
         url: [
           { path: require('../assets/man/m-4-14-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-4-14-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-4-14-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-4-40-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '100% Cotton|White|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M'
         },
-        price: 320
+        price: 320,
+        upDate: '2019-5-23'
       }
-
     ]
   ]
 }

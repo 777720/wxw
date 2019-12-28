@@ -59,7 +59,7 @@
           <div class="card-item">
             <div class="card-title">INTERACT WITH US</div>
             <div class="card-text">
-              Search product availability in stores nearest you by chatting with our LV Virtual Advisor on Facebook Messenger
+              Search product availability in stores nearest you by chatting with our instagram
             </div>
             <div class="card-btn">
               <div>

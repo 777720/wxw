@@ -68,7 +68,7 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" >
-              <span @click="onJumpOtherFn('')" class="wxw-nav-border-fade" style="font-weight: 400;color: black">WHAT'S NEW</span>
+              <span @click="onJumpOtherFn('whatnewlist')" class="wxw-nav-border-fade" style="font-weight: 400;color: black">WHAT'S NEW</span>
             </a>
           </li>
           <li class="nav-item">
@@ -79,7 +79,7 @@
               <div>
                 <div class="menu-select">
                   <div class="selected-left pd36">
-                    <div class="select-item">2020SS</div>
+                    <div class="select-item" @click="onJumpFn('womenlist', '0-0')">New Arrival</div>
                     <div class="select-item" @click="onJumpFn('womenlist', '0-1')">Coats & Jacket</div>
                     <div class="select-item" @click="onJumpFn('womenlist', '0-2')">Knitwear</div>
                     <div class="select-item" @click="onJumpFn('womenlist', '0-3')">Sweatshirt</div>
@@ -105,7 +105,7 @@
               <div>
                 <div class="menu-select">
                   <div class="selected-left pd36">
-                    <div class="select-item">2020SS</div>
+                    <div class="select-item" @click="onJumpFn('manlist', '0-0')">New Arrival</div>
                     <div class="select-item" @click="onJumpFn('manlist', '0-1')">Blazers&Jackets</div>
                     <div class="select-item" @click="onJumpFn('manlist', '0-2')">Knitwear&Sweatshirt</div>
                     <div class="select-item" @click="onJumpFn('manlist', '0-3')">Shirts</div>

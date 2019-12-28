@@ -7,6 +7,8 @@ import ProductDetails from '../views/product-detail'
 import ContactUs from '../views/contact-us'
 import AboutUs from '../views/about-us'
 import SendEmail from '../views/send-email'
+import WhatNewList from '../views/what-new-list'
+
 Vue.use(VueRouter)
 
 const routes = [
@@ -32,6 +34,11 @@ const routes = [
     path: '/womenlist',
     name: 'WomenList',
     component: WomenList
+  },
+  {
+    path: '/whatnewlist',
+    name: 'whatNewList',
+    component: WhatNewList
   },
   {
     path: '/details/:id',
