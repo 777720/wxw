@@ -878,7 +878,7 @@ const products = {
         url: [
           { path: require('../assets/women/w-2-8-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-2-8-f.jpg'), type: 'f' },
-          { path: require('../assets/women/w-2-8-z.jpg'), type: 'z' }
+          { path: require('../assets/women/w-2-8-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '60%  KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|Purple/White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',

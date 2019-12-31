@@ -56,7 +56,8 @@ export default {
       if (products[typeIndex].length === 0) {
         this.listData = []
       } else {
-        this.listData = products[typeIndex][parseInt(idArr[1])]
+        let chansData = products[typeIndex][parseInt(idArr[1])]
+        this.listData = chansData
       }
       this.categoryTitle = Const.womenTitleArr[parseInt(idArr[1])]
     }

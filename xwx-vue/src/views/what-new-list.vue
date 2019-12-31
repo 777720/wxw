@@ -50,7 +50,7 @@ export default {
       })
       this.listData = listDataTemp
 
-      this.categoryTitle = 'what’s new'
+      this.categoryTitle = 'What’s New'
     }
   }
 }

@@ -71,6 +71,8 @@
 // import products from '../core/product'
 // import Const from '../core/const'
 
+import Common from '../core/common'
+
 export default {
   props: {
     data: {
@@ -86,6 +88,7 @@ export default {
   },
   data () {
     return {
+      sortData: [],
       tableData: [],
       pageSize: 9,
       currentIndex: 1
@@ -96,12 +99,15 @@ export default {
   },
   methods: {
     init (data) {
+      let dataTemp = [].concat(data)
       this.currentIndex = 1
-      this.tableData = this.sliceTargetPage(data, this.pageSize, 1)
+      let transData = Common.sortDataByDate(dataTemp)
+      this.sortData = transData
+      this.tableData = this.sliceTargetPage(transData, this.pageSize, 1)
     },
     pageChangeFn (val) {
       this.currentIndex = val
-      this.tableData = this.sliceTargetPage(this.data, this.pageSize, val)
+      this.tableData = this.sliceTargetPage(this.sortData, this.pageSize, val)
     },
 
     sliceTargetPage (arr, pageSize, pageNumber) {
