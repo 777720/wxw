@@ -48,7 +48,6 @@ export default {
       } else {
         this.categoryTitle = Const.manTitleArr[parseInt(idArr[1])]
         listDataTemp = products[typeIndex][parseInt(idArr[1])]
-        console.log('listDataTemp', listDataTemp)
       }
       listDataTemp.map((item, index) => {
         item.dateObj = new Date(item.upDate)
