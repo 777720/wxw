@@ -1,5 +1,21 @@
 <style lang="less">
     .pg-home {
+      .col-sm-12 {
+        padding: 0;
+      }
+      .col-lg-4 {
+        padding: 0;
+      }
+      .borderrb {
+        border-bottom: 1px solid #eae8e4;
+        border-right: 1px solid #eae8e4;
+      }
+      .borderb {
+        border-bottom: 1px solid #eae8e4;
+      }
+      .borderr {
+        border-right: 1px solid #eae8e4;
+      }
       .fs135 {
         font-size: 1.25rem!important;
       }
@@ -119,7 +135,7 @@
           <div class="col-sm">
             <div class="pd36">
               <img class="img-fluid" :src="require('../assets/home-img/2.jpg')" alt="">
-              <h2 class="h2-totle fs135">ZIPPED SHEARLING JACKET</h2>
+              <h2 class="h2-totle fs135">ZIPPED SHEARLING JACKET <br><br></h2>
             </div>
           </div>
           <div class="col-sm">
