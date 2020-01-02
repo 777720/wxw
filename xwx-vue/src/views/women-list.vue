@@ -52,7 +52,7 @@ export default {
         item.dateObj = new Date(item.upDate)
       })
       listDataTemp.sort(function (a, b) {
-        return a.dateObj > b.dateObj ? 1 : -1
+        return a.dateObj < b.dateObj ? 1 : -1
       })
       this.listData = listDataTemp
       this.categoryTitle = Const.womenTitleArr[parseInt(idArr[1])]
