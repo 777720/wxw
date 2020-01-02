@@ -44,10 +44,11 @@ export default {
           ...products[typeIndex][3],
           ...products[typeIndex][4]
         ]
-        this.categoryTitle = 'New Arrival'
-        this.categoryTitle = Const.manTitleArr[parseInt(idArr[1])]
+        this.categoryTitle = 'New Arrivals'
       } else {
+        this.categoryTitle = Const.manTitleArr[parseInt(idArr[1])]
         listDataTemp = products[typeIndex][parseInt(idArr[1])]
+        console.log('listDataTemp', listDataTemp)
       }
       listDataTemp.map((item, index) => {
         item.dateObj = new Date(item.upDate)

@@ -18,8 +18,8 @@
         letter-spacing: .4px;
         background: #fff;
         box-sizing: border-box;
-        padding-left: 6.4vw;
-        padding-right: 6.4vw;
+        padding-left: 3vw;
+        padding-right: 3vw;
         padding-top: 1.5rem;
         padding-bottom: 1.5rem;
         margin-bottom: 1.5rem;
@@ -33,6 +33,9 @@
       </div>
       <div class="newsletterDescription">
         For questions or queries, please contact Andrea Martin Customer Services：customercare@andreamartinofficial.com
+      </div>
+      <div class="newsletterDescription">
+        For commercial informations and other requests, please contact Andrea Martin Commercial Office: commercialoffice@andreamartinofficial.com
       </div>
       <div class="newsletterDescription">
         <div class="form-group">

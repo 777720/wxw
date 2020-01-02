@@ -63,6 +63,7 @@
         :current-page.sync="currentIndex"
         layout="prev, pager, next"
         :total="data.length"
+        :page-size="9"
         @current-change="pageChangeFn"
       />
     </div>

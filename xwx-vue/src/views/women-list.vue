@@ -44,8 +44,9 @@ export default {
           ...products[typeIndex][3],
           ...products[typeIndex][4]
         ]
-        this.categoryTitle = 'New Arrival'
+        this.categoryTitle = 'New Arrivals'
       } else {
+        this.categoryTitle = Const.womenTitleArr[parseInt(idArr[1])]
         listDataTemp = products[typeIndex][parseInt(idArr[1])]
       }
       listDataTemp.map((item, index) => {
@@ -55,7 +56,6 @@ export default {
         return a.dateObj < b.dateObj ? 1 : -1
       })
       this.listData = listDataTemp
-      this.categoryTitle = Const.womenTitleArr[parseInt(idArr[1])]
     }
   }
 }
