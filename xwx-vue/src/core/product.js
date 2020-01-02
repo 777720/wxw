@@ -1540,7 +1540,7 @@ const products = {
           'size': 'XS/S/M/L'
         },
         price: 205,
-        upDate: '2019-5-3'
+        upDate: '2019-7-15'
       },
       {
         id: 'w-4-37',
@@ -1556,7 +1556,7 @@ const products = {
           'size': 'XS/S/M/L'
         },
         price: 205,
-        upDate: '2019-5-4'
+        upDate: '2019-7-16'
       },
       {
         id: 'w-4-38',
@@ -1572,7 +1572,7 @@ const products = {
           'size': 'XS/S/M/L'
         },
         price: 205,
-        upDate: '2019-5-6'
+        upDate: '2019-7-18'
       },
       {
         id: 'w-4-39',
@@ -1588,7 +1588,7 @@ const products = {
           'size': 'XS/S/M/L'
         },
         price: 205,
-        upDate: '2019-5-5'
+        upDate: '2019-7-17'
       },
       {
         id: 'w-4-40',
