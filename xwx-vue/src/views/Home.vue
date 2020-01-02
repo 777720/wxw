@@ -163,6 +163,8 @@ export default {
     callback () {},
     onJumpOtherFn (url) {
       this.$router.push(`/${url}`)
+      document.body.scrollTop = 0
+      document.documentElement.scrollTop = 0
     }
   }
 
