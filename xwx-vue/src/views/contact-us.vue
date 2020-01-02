@@ -3,7 +3,7 @@
       background-color: #f5f6f3;
       margin-top: 67px;
       min-height: 100vh;
-      padding: 42px;
+      padding: 22px;
       .title {
         font-weight: 700;
         font-size: 2.125rem;
@@ -18,6 +18,7 @@
         justify-content: flex-start!important;
       }
       .card-item {
+        margin-top: 6px;
         border: 1px solid #eae8e4;
         padding: 1.5rem;
         display: flex;
@@ -63,7 +64,9 @@
             </div>
             <div class="card-btn">
               <div>
-                <a class="hbtn hb-fill-on-rev" :style="{ width: '100%' }" href="https://instagram.com/andreamartin_official?igshid=1cdc4ofjpq83o">instagram@andreamartin_official</a>
+                <a class="hbtn hb-fill-on-rev" :style="{ width: '100%', height: 'auto' }" href="https://instagram.com/andreamartin_official?igshid=1cdc4ofjpq83o">
+                  instagram@andreamartin_official
+                </a>
               </div>
             </div>
           </div>
@@ -73,7 +76,7 @@
           <div class="card-item">
             <div class="card-title">EMAIL US</div>
             <div class="card-text">
-              For questions or queries, please contact Andrea Martin Customer Services：customercare@andreamartinofficial.com
+              Our dedicated specialists will be delighted to answer your questions
             </div>
             <div class="card-btn">
               <div class="hbtn hb-fill-on-rev" :style="{ width: '100%' }" @click="sendEmailFn">Send An Email</div>

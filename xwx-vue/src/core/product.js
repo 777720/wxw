@@ -836,7 +836,7 @@ const products = {
           'features': '60% KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|Multicolor|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M'
         },
-        price: 480,
+        price: 490,
         upDate: '2019-5-21'
       },
       {

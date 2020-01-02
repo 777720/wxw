@@ -32,7 +32,7 @@
         RECEIVE ANDREA MARTIN COMMUNICATIONS
       </div>
       <div class="newsletterDescription">
-        Enjoy added benefits and a richer experience by creating a personal account.
+        For questions or queries, please contact Andrea Martin Customer Services：customercare@andreamartinofficial.com
       </div>
       <div class="newsletterDescription">
         <div class="form-group">

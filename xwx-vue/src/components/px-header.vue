@@ -140,14 +140,17 @@ export default {
   methods: {
     onJumpFn (type, id) {
       this.$router.push(`/${type}?id=${id}`)
+      this.$store.dispatch('changePageNumberAction', 1)
       this.$refs.navbarSupportedContent.className = 'collapse navbar-collapse'
     },
     onJumpOtherFn (url) {
       this.$router.push(`/${url}`)
+      this.$store.dispatch('changePageNumberAction', 1)
       this.$refs.navbarSupportedContent.className = 'collapse navbar-collapse'
     },
     goHomeFn () {
       this.$router.push('/')
+      this.$store.dispatch('changePageNumberAction', 1)
       this.$refs.navbarSupportedContent.className = 'collapse navbar-collapse'
     }
   }

@@ -60,6 +60,7 @@
     </div>
     <div class="pagination">
       <el-pagination
+        :current-page.sync="currentIndex"
         layout="prev, pager, next"
         :total="data.length"
         @current-change="pageChangeFn"
@@ -70,7 +71,7 @@
 <script>
 // import products from '../core/product'
 // import Const from '../core/const'
-
+import { mapState } from 'vuex'
 import Common from '../core/common'
 
 export default {
@@ -86,6 +87,9 @@ export default {
       this.init(val)
     }
   },
+  computed: mapState({
+    currentPageNumber: state => state.currentPageNumber
+  }),
   data () {
     return {
       sortData: [],
@@ -94,20 +98,26 @@ export default {
       currentIndex: 1
     }
   },
+  destroyed () {
+    document.body.scrollTop = 0
+    document.documentElement.scrollTop = 0
+  },
   mounted () {
     this.init(this.data)
+    this.currentIndex = this.currentPageNumber
   },
   methods: {
     init (data) {
       let dataTemp = [].concat(data)
-      this.currentIndex = 1
+      this.currentIndex = this.currentPageNumber
       let transData = Common.sortDataByDate(dataTemp)
       this.sortData = transData
-      this.tableData = this.sliceTargetPage(transData, this.pageSize, 1)
+      this.tableData = this.sliceTargetPage(transData, this.pageSize, this.currentIndex)
     },
     pageChangeFn (val) {
       this.currentIndex = val
       this.tableData = this.sliceTargetPage(this.sortData, this.pageSize, val)
+      this.$store.dispatch('changePageNumberAction', val)
     },
 
     sliceTargetPage (arr, pageSize, pageNumber) {
