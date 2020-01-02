@@ -36,25 +36,26 @@ export default {
       const { id } = this.$route.query
       const idArr = id.split('-')
       const typeIndex = 'man'
+      let listDataTemp
       if (id === '0-0') {
-        let listDataTemp = [
+        listDataTemp = [
           ...products[typeIndex][1],
           ...products[typeIndex][2],
           ...products[typeIndex][3],
           ...products[typeIndex][4]
         ]
-        listDataTemp.map((item, index) => {
-          item.dateObj = new Date(item.upDate)
-        })
-        listDataTemp.sort(function (a, b) {
-          return a.dateObj < b.dateObj ? 1 : -1
-        })
-        this.listData = listDataTemp
         this.categoryTitle = 'New Arrival'
-        return
+        this.categoryTitle = Const.manTitleArr[parseInt(idArr[1])]
+      } else {
+        listDataTemp = products[typeIndex][parseInt(idArr[1])]
       }
-      this.listData = products[typeIndex][parseInt(idArr[1])]
-      this.categoryTitle = Const.manTitleArr[parseInt(idArr[1])]
+      listDataTemp.map((item, index) => {
+        item.dateObj = new Date(item.upDate)
+      })
+      listDataTemp.sort(function (a, b) {
+        return a.dateObj > b.dateObj ? 1 : -1
+      })
+      this.listData = listDataTemp
     }
   }
 }

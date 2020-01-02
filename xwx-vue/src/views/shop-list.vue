@@ -69,10 +69,7 @@
   </div>
 </template>
 <script>
-// import products from '../core/product'
-// import Const from '../core/const'
 import { mapState } from 'vuex'
-import Common from '../core/common'
 
 export default {
   props: {
@@ -110,13 +107,15 @@ export default {
     init (data) {
       let dataTemp = [].concat(data)
       this.currentIndex = this.currentPageNumber
-      let transData = Common.sortDataByDate(dataTemp)
-      this.sortData = transData
+      // let transData = Common.sortDataByDate(dataTemp)
+      // this.sortData = transData
+
+      let transData = dataTemp
       this.tableData = this.sliceTargetPage(transData, this.pageSize, this.currentIndex)
     },
     pageChangeFn (val) {
       this.currentIndex = val
-      this.tableData = this.sliceTargetPage(this.sortData, this.pageSize, val)
+      this.tableData = this.sliceTargetPage(this.data, this.pageSize, val)
       this.$store.dispatch('changePageNumberAction', val)
     },
 
