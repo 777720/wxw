@@ -276,7 +276,7 @@ const products = {
           'size': 'XS/S/M/L'
         },
         price: 350,
-        upDate: '2019-7-15'
+        upDate: '2019-7-5'
       },
       {
         id: 'm-2-7',
