@@ -80,8 +80,8 @@
       <div class="swiper-container">
         <swiper :options="swiperOption" ref="mySwiper" @someSwiperEvent="callback">
           <!-- slides -->
-          <swiper-slide><img class="swiper-img" :src="require('../assets/swiper-img/swiper-1.jpeg')" alt=""></swiper-slide>
-          <swiper-slide><img class="swiper-img" :src="require('../assets/swiper-img/swiper-2.jpeg')" alt=""></swiper-slide>
+          <swiper-slide><img @click="onJumpOtherFn('whatnewlist')" class="swiper-img" :src="require('../assets/swiper-img/swiper-1.jpeg')" alt=""></swiper-slide>
+          <swiper-slide><img @click="onJumpOtherFn('home-link?listName=homeSwipeTwo')" class="swiper-img" :src="require('../assets/swiper-img/swiper-2.jpeg')" alt=""></swiper-slide>
           <!-- Optional controls -->
           <div class="swiper-button-prev" slot="button-prev"></div>
           <div class="swiper-button-next" slot="button-next"></div>
@@ -90,7 +90,7 @@
 
       <media :query="{maxWidth: 500}">
         <div class="min-content-one">
-          <div class="small-item">
+          <div class="small-item" @click="onJumpOtherFn('home-link?listName=homeCenterOne')">
             <img class="img-fluid" :src="require('../assets/home-img/home-1.jpeg')" />
             <h2 class="h2-totle">TWEED/DENIM SHIRT</h2>
           </div>
@@ -111,7 +111,7 @@
       <media :query="{minWidth: 500}">
         <div class="content-one">
           <div class="left pd36">
-            <img class="img-fluid" :src="require('../assets/home-img/home-1.jpeg')" />
+            <img class="img-fluid" @click="onJumpOtherFn('home-link?listName=homeCenterOne')" :src="require('../assets/home-img/home-1.jpeg')" />
             <h2 class="h2-totle">TWEED/DENIM SHIRT</h2>
           </div>
           <div class="right">
@@ -131,22 +131,22 @@
       </media>
 
       <div class="content-two">
-        <div class="row" :style="{ width: '100%' }">
+        <div class="row">
           <div class="col-sm">
             <div class="pd36">
-              <img class="img-fluid" :src="require('../assets/home-img/2.jpg')" alt="">
+              <img class="img-fluid" @click="onJumpOtherFn('home-link?listName=homeBottomOne')" :src="require('../assets/home-img/2.jpg')" alt="">
               <h2 class="h2-totle fs135">ZIPPED SHEARLING JACKET <br><br></h2>
             </div>
           </div>
           <div class="col-sm">
             <div class="pd36">
-              <img class="img-fluid" :src="require('../assets/home-img/4.jpg')" alt="">
+              <img class="img-fluid" @click="onJumpOtherFn('home-link?listName=homeBottomTwo')" :src="require('../assets/home-img/4.jpg')" alt="">
               <h2 class="h2-totle fs135">ANDREA MARTIN PRINTED SWEATSHIRT</h2>
             </div>
           </div>
           <div class="col-sm">
             <div class="pd36">
-              <img class="img-fluid" :src="require('../assets/home-img/5.jpg')" alt="">
+              <img class="img-fluid" @click="onJumpOtherFn('home-link?listName=homeBottomThree')" :src="require('../assets/home-img/5.jpg')" alt="">
               <h2 class="h2-totle fs135">BASIC PRINTED LONG SLEEVE T-SHIRT</h2>
             </div>
           </div>

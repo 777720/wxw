@@ -8,6 +8,7 @@ import ContactUs from '../views/contact-us'
 import AboutUs from '../views/about-us'
 import SendEmail from '../views/send-email'
 import WhatNewList from '../views/what-new-list'
+import HomeLink from '../views/home-link'
 
 Vue.use(VueRouter)
 
@@ -25,6 +26,11 @@ const routes = [
   //     { path: 'women/:id', components: ShopList }
   //   ]
   // },
+  {
+    path: '/home-link',
+    name: 'HomeLink',
+    component: HomeLink
+  },
   {
     path: '/manlist',
     name: 'ManList',
