@@ -10,6 +10,7 @@
 </template>
 <script>
 import ShopList from './shop-list'
+import Common from '../core/common'
 import products from '../core/product'
 
 export default {
@@ -42,13 +43,8 @@ export default {
         ...products['women'][3],
         ...products['women'][4]
       ]
-      listDataTemp.map((item, index) => {
-        item.dateObj = new Date(item.upDate)
-      })
-      listDataTemp.sort(function (a, b) {
-        return a.dateObj < b.dateObj ? 1 : -1
-      })
-      this.listData = listDataTemp
+
+      this.listData = Common.sortDataByDate(listDataTemp)
 
       this.categoryTitle = 'What’s New'
     }

@@ -12,6 +12,7 @@
 import ShopList from './shop-list'
 import products from '../core/product'
 import Const from '../core/const'
+import Common from '../core/common'
 
 export default {
   components: {
@@ -49,13 +50,7 @@ export default {
         this.categoryTitle = Const.womenTitleArr[parseInt(idArr[1])]
         listDataTemp = products[typeIndex][parseInt(idArr[1])]
       }
-      listDataTemp.map((item, index) => {
-        item.dateObj = new Date(item.upDate)
-      })
-      listDataTemp.sort(function (a, b) {
-        return a.dateObj < b.dateObj ? 1 : -1
-      })
-      this.listData = listDataTemp
+      this.listData = Common.sortDataByDate(listDataTemp)
     }
   }
 }

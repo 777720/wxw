@@ -92,18 +92,18 @@
         <div class="min-content-one">
           <div class="small-item" @click="onJumpOtherFn('home-link?listName=homeCenterOne')">
             <img class="img-fluid" :src="require('../assets/home-img/home-1.jpeg')" />
-            <h2 class="h2-totle">TWEED/DENIM SHIRT</h2>
+            <h2 class="h2-totle fs135">TWEED/DENIM SHIRT</h2>
           </div>
           <div class="small-item">
             <h2>ANDREA MARTIN</h2>
             <p>
-              2020SS IS COMING
+              2020S/S IS COMING
             </p>
             <div class="hbtn hb-fill-on-rev" @click="onJumpOtherFn('whatnewlist')">VIEW NOW</div>
           </div>
           <div class="small-item">
             <img class="img-fluid" :src="require('../assets/home-img/3.jpg')" />
-            <h2 class="h2-totle">ZIPPED CHECK PRINT SHIRT</h2>
+            <h2 class="h2-totle fs135">ZIPPED CHECK PRINT SHIRT</h2>
           </div>
         </div>
 

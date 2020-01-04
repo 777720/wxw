@@ -81,8 +81,11 @@ export default {
     categoryTitle: String
   },
   watch: {
-    data (val) {
-      this.init(val)
+    data: {
+      handler: function (val) {
+        this.init(val)
+      },
+      deep: true
     }
   },
   computed: mapState({
