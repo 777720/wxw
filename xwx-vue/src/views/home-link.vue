@@ -18,7 +18,6 @@ export default {
   },
   mounted () {
     const { listName } = this.$route.query
-
     const waitSearchPucts = this[listName]
     const typeIndex = waitSearchPucts.type
     let checkProducts = []

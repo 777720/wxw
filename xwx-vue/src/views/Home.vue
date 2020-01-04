@@ -118,7 +118,7 @@
             <div class="pd36">
               <h2>ANDREA MARTIN</h2>
               <p>
-                2020SS IS COMING
+                2020S/S IS COMING
               </p>
               <div class="hbtn hb-fill-on-rev" @click="onJumpOtherFn('whatnewlist')">VIEW NOW</div>
             </div>

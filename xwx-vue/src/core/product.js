@@ -240,7 +240,7 @@ const products = {
           { path: require('../assets/man/m-2-4-t.jpg'), type: 't' }
         ],
         detail: {
-          'features': '100% Cotton|Pink|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'features': '100% Cotton|Black|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
         price: 350,
@@ -256,7 +256,7 @@ const products = {
           { path: require('../assets/man/m-2-5-t.jpg'), type: 't' }
         ],
         detail: {
-          'features': '100% Cotton|Pink|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'features': '100% Cotton|Green|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'XS/S/M/L'
         },
         price: 350,
@@ -964,7 +964,7 @@ const products = {
       {
         id: 'w-3-11',
         chineseName: '露肩帽衫-灰色',
-        name: 'DANDELION PRINT OPEN SHOULDER HOODIE',
+        name: 'DAIZY PRINT OPEN SHOULDER HOODIE',
         url: [
           { path: require('../assets/women/w-3-11-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-3-11-f.jpg'), type: 'f' },
