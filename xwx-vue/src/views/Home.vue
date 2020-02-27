@@ -123,7 +123,7 @@
               <div class="hbtn hb-fill-on-rev" @click="onJumpOtherFn('whatnewlist')">VIEW NOW</div>
             </div>
             <div class="pd36 bdt">
-              <img class="img-fluid" :src="require('../assets/home-img/3.jpg')" alt="">
+              <img class="img-fluid" @click="onJumpOtherFn('home-link?listName=homeCenterTwo')" :src="require('../assets/home-img/3.jpg')" alt="">
               <h2 class="h2-totle">ZIPPED CHECK PRINT SHIRT</h2>
             </div>
           </div>

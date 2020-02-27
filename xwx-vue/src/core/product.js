@@ -454,7 +454,7 @@ const products = {
           'size': 'XS/S/M/L'
         },
         price: 310,
-        upDate: '2020-2-26'
+        upDate: '2019-9-3'
       },
       {
         id: 'm-3-8',
@@ -470,7 +470,7 @@ const products = {
           'size': 'XS/S/M/L'
         },
         price: 310,
-        upDate: '2020-2-26'
+        upDate: '2019-9-2'
       },
       {
         id: 'm-3-9',
@@ -486,7 +486,7 @@ const products = {
           'size': 'XS/S/M/L'
         },
         price: 310,
-        upDate: '2020-2-26'
+        upDate: '2019-9-7'
       },
       {
         id: 'm-3-10',
@@ -502,7 +502,7 @@ const products = {
           'size': 'XS/S/M/L'
         },
         price: 310,
-        upDate: '2020-2-26'
+        upDate: '2019-9-6'
       },
       {
         id: 'm-3-11',
@@ -518,7 +518,7 @@ const products = {
           'size': 'XS/S/M/L'
         },
         price: 310,
-        upDate: '2020-2-26'
+        upDate: '2019-9-5'
       },
       {
         id: 'm-3-12',
@@ -534,7 +534,7 @@ const products = {
           'size': 'XS/S/M/L'
         },
         price: 310,
-        upDate: '2020-2-26'
+        upDate: '2019-9-4'
       },
       {
         id: 'm-3-13',
@@ -550,7 +550,7 @@ const products = {
           'size': 'XS/S/M/L'
         },
         price: 310,
-        upDate: '2020-2-26'
+        upDate: '2019-9-1'
       }
     ],
     [
@@ -831,8 +831,8 @@ const products = {
           'features': 'FABRIC|73%  POLYESTER|27%  RABBIT FUR|LINING|100%  POLYAMIDE|White/blue|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'ONESIZE'
         },
-        price: 310,
-        upDate: '2020-2-26'
+        price: 370,
+        upDate: '2019-9-11'
       },
       {
         id: 'w-1-3',
@@ -847,8 +847,8 @@ const products = {
           'features': 'FABRIC|73%  POLYESTER|27%  RABBIT FUR|LINING|100%  POLYAMIDE|White/pink|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'ONESIZE'
         },
-        price: 310,
-        upDate: '2020-2-26'
+        price: 370,
+        upDate: '2019-9-10'
       },
       {
         id: 'w-1-4',
@@ -863,8 +863,8 @@ const products = {
           'features': 'FABRIC|73%  POLYESTER|27%  RABBIT FUR|LINING|100%  POLYAMIDE|White/grey|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'ONESIZE'
         },
-        price: 310,
-        upDate: '2020-2-26'
+        price: 370,
+        upDate: '2019-9-12'
       },
       {
         id: 'w-1-5',
@@ -879,8 +879,40 @@ const products = {
           'features': 'FABRIC|73%  POLYESTER|27%  RABBIT FUR|LINING|100%  POLYAMIDE|White/light blue|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
           'size': 'ONESIZE'
         },
-        price: 310,
-        upDate: '2020-2-26'
+        price: 370,
+        upDate: '2019-9-13'
+      },
+      {
+        id: 'w-1-6',
+        chineseName: '白色香风羽绒服',
+        name: 'WHITE DOWN PANELLED JACKET',
+        url: [
+          { path: require('../assets/women/w-1-6-z.jpg'), type: 'z' },
+          { path: require('../assets/women/w-1-6-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-1-6-t.jpg'), type: 't' }
+        ],
+        detail: {
+          'features': 'Detailed Features|EXTERIOR|100%  POLYAMIDE|LINING|100%  POLYAMIDE|90%  DOWN|10%  FEATHER|White|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': '1/2/3'
+        },
+        price: 550,
+        upDate: '2019-9-17'
+      },
+      {
+        id: 'w-1-7',
+        chineseName: '黑色香风羽绒服',
+        name: 'BLACK DOWN PANELLED JACKET',
+        url: [
+          { path: require('../assets/women/w-1-7-z.jpg'), type: 'z' },
+          { path: require('../assets/women/w-1-7-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-1-7-t.jpg'), type: 't' }
+        ],
+        detail: {
+          'features': 'Detailed Features|EXTERIOR|100%  POLYAMIDE|LINING|100%  POLYAMIDE|90%  DOWN|10%  FEATHER|Black|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': '1/2/3'
+        },
+        price: 550,
+        upDate: '2019-9-18'
       }
     ],
     [

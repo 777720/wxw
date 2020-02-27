@@ -59,14 +59,25 @@ export default {
             'm-3-5',
             'm-3-2',
             'm-3-0',
-            'm-3-1'
+            'm-3-1',
+            'm-3-8',
+            'm-3-9',
+            'm-3-10',
+            'm-3-11',
+            'm-3-12',
+            'm-3-13'
           ]
       },
       homeCenterTwo: {
         title: 'ZIPPED CHECK PRINT SHIRT',
-        type: 'man',
+        type: 'women',
         produts:
-          []
+          [
+            'w-1-2',
+            'w-1-3',
+            'w-1-4',
+            'w-1-5'
+          ]
       },
       homeBottomOne: {
         title: 'ZIPPED SHEARLING JACKET',
