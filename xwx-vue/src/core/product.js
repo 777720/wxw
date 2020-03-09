@@ -163,7 +163,245 @@ const products = {
         },
         price: 480,
         upDate: '2019-6-30'
+      },
+      {
+        id: 'm-1-10',
+        chineseName: '白色狼皮草',
+        name: 'WOLF PRINTED FUR JACKET',
+        url: [
+          { path: require('../assets/man/m-1-10-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-10-f.jpg'), type: 'f' }
+        ],
+        detail: {
+          'features': 'Detailed Features|Fabric|73% Polyester|27% Rabbit fur|Lining|100% Polyamide|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': '1/2/3'
+        },
+        price: 520,
+        upDate: '2019-9-19'
+      },
+      {
+        id: 'm-1-11',
+        chineseName: '白色熊皮草',
+        name: 'BROWN BEAR PRINTED FUR JACKET',
+        url: [
+          { path: require('../assets/man/m-1-11-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-11-f.jpg'), type: 'f' }
+        ],
+        detail: {
+          'features': 'Detailed Features|Fabric|73% Polyester|27% Rabbit fur|Lining|100% Polyamide|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': '1/2/3'
+        },
+        price: 520,
+        upDate: '2019-9-20'
+      },
+      {
+        id: 'm-1-12',
+        chineseName: '黑色狮子皮草',
+        name: 'BLACK PANTHER PRINTED FUR JACKET',
+        url: [
+          { path: require('../assets/man/m-1-12-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-12-f.jpg'), type: 'f' }
+        ],
+        detail: {
+          'features': 'Detailed Features|Fabric|73% Polyester|27% Rabbit fur|Lining|100% Polyamide|Black|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': '1/2/3'
+        },
+        price: 520,
+        upDate: '2019-9-21'
+      },
+      {
+        id: 'm-1-13',
+        chineseName: '黑色吸血鬼皮草',
+        name: 'VAMPIRE PRINTED FUR JACKET',
+        url: [
+          { path: require('../assets/man/m-1-13-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-13-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-1-13-f.jpg'), type: 't' }
+        ],
+        detail: {
+          'features': 'Detailed Features|Fabric|73% Polyester|27% Rabbit fur|Lining|100% Polyamide|Black|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': '1/2/3'
+        },
+        price: 520,
+        upDate: '2019-9-24'
+      },
+      {
+        id: 'm-1-14',
+        chineseName: '黑色小丑皮草',
+        name: 'JOKER PRINTED FUR JACKET',
+        url: [
+          { path: require('../assets/man/m-1-13-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-13-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-1-13-f.jpg'), type: 't' }
+        ],
+        detail: {
+          'features': 'Detailed Features|Fabric|73% Polyester|27% Rabbit fur|Lining|100% Polyamide|Black|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': '1/2/3'
+        },
+        price: 520,
+        upDate: '2019-9-26'
+      },
+      {
+        id: 'm-1-15',
+        chineseName: '红色小丑皮草',
+        name: 'JOKER PRINTED FUR JACKET',
+        url: [
+          { path: require('../assets/man/m-1-15-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-15-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-1-15-f.jpg'), type: 't' }
+        ],
+        detail: {
+          'features': 'Detailed Features|Fabric|73% Polyester|27% Rabbit fur|Lining|100% Polyamide|Red|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': '1/2/3'
+        },
+        price: 520,
+        upDate: '2019-9-25'
+      },
+      {
+        id: 'm-1-16',
+        chineseName: '蓝色豹子皮草',
+        name: 'BLACK PANTHER FUR JACKET',
+        url: [
+          { path: require('../assets/man/m-1-16-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-16-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-1-16-f.jpg'), type: 't' }
+        ],
+        detail: {
+          'features': 'Detailed Features|Fabric|73% Polyester|27% Rabbit fur|Lining|100% Polyamide|Blue|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': '1/2/3'
+        },
+        price: 520,
+        upDate: '2019-9-22'
+      },
+      {
+        id: 'm-1-17',
+        chineseName: '猩猩皮草',
+        name: 'ORANGUTAN PRINTED FUR JACKET',
+        url: [
+          { path: require('../assets/man/m-1-17-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-17-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-1-17-f.jpg'), type: 't' }
+        ],
+        detail: {
+          'features': 'Detailed Features|Fabric|73% Polyester|27% Rabbit fur|Lining|100% Polyamide|Grey|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': '1/2/3'
+        },
+        price: 520,
+        upDate: '2019-9-23'
+      },
+      {
+        id: 'm-1-18',
+        chineseName: '白色反战',
+        name: 'PEACE SYMBOLS CASUAL JACKETS',
+        url: [
+          { path: require('../assets/man/m-1-18-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-18-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-1-18-f.jpg'), type: 't' }
+        ],
+        detail: {
+          'features': 'Detailed Features|100% Polyester|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': '1/2/3'
+        },
+        price: 370,
+        upDate: '2019-9-27'
+      },
+      {
+        id: 'm-1-19',
+        chineseName: '彩条外套',
+        name: 'STRIPED FAUX SHEARLING JACKET',
+        url: [
+          { path: require('../assets/man/m-1-19-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-19-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-1-19-f.jpg'), type: 't' }
+        ],
+        detail: {
+          'features': 'Detailed Features|100% Polyester|Multicolor|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': '1/2/3'
+        },
+        price: 370,
+        upDate: '2019-9-27'
+      },
+      {
+        id: 'm-1-20',
+        chineseName: '黑色反战',
+        name: 'PEACE SYMBOLS CASUAL JACKETS',
+        url: [
+          { path: require('../assets/man/m-1-20-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-20-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-1-20-f.jpg'), type: 't' }
+        ],
+        detail: {
+          'features': 'Detailed Features|100% Polyester|Black|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': '1/2/3'
+        },
+        price: 370,
+        upDate: '2019-9-28'
+      },
+      {
+        id: 'm-1-21',
+        chineseName: '黑色血牙',
+        name: 'BLOODFANG CASUAL JACKETS',
+        url: [
+          { path: require('../assets/man/m-1-21-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-21-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-1-21-f.jpg'), type: 't' }
+        ],
+        detail: {
+          'features': 'Detailed Features|100% Polyester|Black|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': '1/2/3'
+        },
+        price: 370,
+        upDate: '2019-9-30'
+      },
+      {
+        id: 'm-1-22',
+        chineseName: '红色十字架',
+        name: 'CROSS CASUAL JACKETS',
+        url: [
+          { path: require('../assets/man/m-1-22-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-22-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-1-22-f.jpg'), type: 't' }
+        ],
+        detail: {
+          'features': 'Detailed Features|100% Polyester|Red|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': '1/2/3'
+        },
+        price: 370,
+        upDate: '2019-9-29'
+      },
+      {
+        id: 'm-1-23',
+        chineseName: '黄色仙人掌',
+        name: 'CACTUS CASUAL JACKETS',
+        url: [
+          { path: require('../assets/man/m-1-23-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-23-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-1-23-f.jpg'), type: 't' }
+        ],
+        detail: {
+          'features': 'Detailed Features|100% Polyester|Orange|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': '1/2/3'
+        },
+        price: 370,
+        upDate: '2019-9-29'
+      },
+      {
+        id: 'm-1-24',
+        chineseName: '绿色蜜蜂',
+        name: 'BEE CASUAL JACKETS',
+        url: [
+          { path: require('../assets/man/m-1-24-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-24-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-1-24-f.jpg'), type: 't' }
+        ],
+        detail: {
+          'features': 'Detailed Features|100% Polyester|Green|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': '1/2/3'
+        },
+        price: 370,
+        upDate: '2019-10-1'
       }
+
     ],
     [
       {
@@ -325,6 +563,70 @@ const products = {
         },
         price: 350,
         upDate: '2019-7-4'
+      },
+      {
+        id: 'm-2-10',
+        chineseName: '白色反光帽衫',
+        name: 'SIGNATURE HOODIE',
+        url: [
+          { path: require('../assets/man/m-2-10-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-2-10-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-2-10-t.jpg'), type: 't' }
+        ],
+        detail: {
+          'features': 'Detailed Features|100% Cotton|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': 'XS/S/M/L'
+        },
+        price: 320,
+        upDate: '2019-10-21'
+      },
+      {
+        id: 'm-2-11',
+        chineseName: '白色反光卫衣',
+        name: 'SIGNATURE SWEATER',
+        url: [
+          { path: require('../assets/man/m-2-11-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-2-11-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-2-11-t.jpg'), type: 't' }
+        ],
+        detail: {
+          'features': 'Detailed Features|100% Cotton|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': 'XS/S/M/L'
+        },
+        price: 320,
+        upDate: '2019-10-23'
+      },
+      {
+        id: 'm-2-12',
+        chineseName: '黑色反光帽衫',
+        name: 'SIGNATURE HOODIE',
+        url: [
+          { path: require('../assets/man/m-2-12-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-2-12-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-2-12-t.jpg'), type: 't' }
+        ],
+        detail: {
+          'features': 'Detailed Features|100% Cotton|Black|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': 'XS/S/M/L'
+        },
+        price: 320,
+        upDate: '2019-10-22'
+      },
+      {
+        id: 'm-2-13',
+        chineseName: '黑色反光卫衣',
+        name: 'SIGNATURE SWEATER',
+        url: [
+          { path: require('../assets/man/m-2-13-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-2-13-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-2-13-t.jpg'), type: 't' }
+        ],
+        detail: {
+          'features': 'Detailed Features|100% Cotton|Black|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': 'XS/S/M/L'
+        },
+        price: 320,
+        upDate: '2019-10-24'
       }
     ],
     [
