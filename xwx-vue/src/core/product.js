@@ -170,7 +170,8 @@ const products = {
         name: 'WOLF PRINTED FUR JACKET',
         url: [
           { path: require('../assets/man/m-1-10-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-1-10-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-1-10-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-1-10-t.jpg'), type: 't' }
         ],
         detail: {
           'features': 'Detailed Features|Fabric|73% Polyester|27% Rabbit fur|Lining|100% Polyamide|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -185,7 +186,8 @@ const products = {
         name: 'BROWN BEAR PRINTED FUR JACKET',
         url: [
           { path: require('../assets/man/m-1-11-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-1-11-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-1-11-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-1-11-t.jpg'), type: 't' }
         ],
         detail: {
           'features': 'Detailed Features|Fabric|73% Polyester|27% Rabbit fur|Lining|100% Polyamide|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -200,7 +202,8 @@ const products = {
         name: 'BLACK PANTHER PRINTED FUR JACKET',
         url: [
           { path: require('../assets/man/m-1-12-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-1-12-f.jpg'), type: 'f' }
+          { path: require('../assets/man/m-1-12-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-1-12-t.jpg'), type: 't' }
         ],
         detail: {
           'features': 'Detailed Features|Fabric|73% Polyester|27% Rabbit fur|Lining|100% Polyamide|Black|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -841,7 +844,7 @@ const products = {
       {
         id: 'm-3-13',
         chineseName: '蓝色冰淇淋衬衫',
-        name: 'BLUE&SILVER TWEED/DENIM SHIRT',
+        name: 'MULTICOLOR&BLUE TWEED/DENIM SHIRT',
         url: [
           { path: require('../assets/man/m-3-13-z.jpg'), type: 'z' },
           { path: require('../assets/man/m-3-13-f.jpg'), type: 'f' },
