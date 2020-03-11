@@ -217,9 +217,9 @@ const products = {
         chineseName: '黑色吸血鬼皮草',
         name: 'VAMPIRE PRINTED FUR JACKET',
         url: [
-          { path: require('../assets/man/m-1-13-z.jpg'), type: 'z' },
           { path: require('../assets/man/m-1-13-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-1-13-f.jpg'), type: 't' }
+          { path: require('../assets/man/m-1-13-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-13-t.jpg'), type: 't' }
         ],
         detail: {
           'features': 'Detailed Features|Fabric|73% Polyester|27% Rabbit fur|Lining|100% Polyamide|Black|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -233,9 +233,9 @@ const products = {
         chineseName: '黑色小丑皮草',
         name: 'JOKER PRINTED FUR JACKET',
         url: [
-          { path: require('../assets/man/m-1-13-z.jpg'), type: 'z' },
           { path: require('../assets/man/m-1-13-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-1-13-f.jpg'), type: 't' }
+          { path: require('../assets/man/m-1-13-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-13-t.jpg'), type: 't' }
         ],
         detail: {
           'features': 'Detailed Features|Fabric|73% Polyester|27% Rabbit fur|Lining|100% Polyamide|Black|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -249,9 +249,9 @@ const products = {
         chineseName: '红色小丑皮草',
         name: 'JOKER PRINTED FUR JACKET',
         url: [
-          { path: require('../assets/man/m-1-15-z.jpg'), type: 'z' },
           { path: require('../assets/man/m-1-15-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-1-15-f.jpg'), type: 't' }
+          { path: require('../assets/man/m-1-15-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-15-t.jpg'), type: 't' }
         ],
         detail: {
           'features': 'Detailed Features|Fabric|73% Polyester|27% Rabbit fur|Lining|100% Polyamide|Red|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -265,9 +265,9 @@ const products = {
         chineseName: '蓝色豹子皮草',
         name: 'BLACK PANTHER FUR JACKET',
         url: [
-          { path: require('../assets/man/m-1-16-z.jpg'), type: 'z' },
           { path: require('../assets/man/m-1-16-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-1-16-f.jpg'), type: 't' }
+          { path: require('../assets/man/m-1-16-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-16-t.jpg'), type: 't' }
         ],
         detail: {
           'features': 'Detailed Features|Fabric|73% Polyester|27% Rabbit fur|Lining|100% Polyamide|Blue|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -281,9 +281,9 @@ const products = {
         chineseName: '猩猩皮草',
         name: 'ORANGUTAN PRINTED FUR JACKET',
         url: [
-          { path: require('../assets/man/m-1-17-z.jpg'), type: 'z' },
           { path: require('../assets/man/m-1-17-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-1-17-f.jpg'), type: 't' }
+          { path: require('../assets/man/m-1-17-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-17-t.jpg'), type: 't' }
         ],
         detail: {
           'features': 'Detailed Features|Fabric|73% Polyester|27% Rabbit fur|Lining|100% Polyamide|Grey|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -299,7 +299,7 @@ const products = {
         url: [
           { path: require('../assets/man/m-1-18-z.jpg'), type: 'z' },
           { path: require('../assets/man/m-1-18-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-1-18-f.jpg'), type: 't' }
+          { path: require('../assets/man/m-1-18-t.jpg'), type: 't' }
         ],
         detail: {
           'features': 'Detailed Features|100% Polyester|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -315,7 +315,7 @@ const products = {
         url: [
           { path: require('../assets/man/m-1-19-z.jpg'), type: 'z' },
           { path: require('../assets/man/m-1-19-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-1-19-f.jpg'), type: 't' }
+          { path: require('../assets/man/m-1-19-t.jpg'), type: 't' }
         ],
         detail: {
           'features': 'Detailed Features|100% Polyester|Multicolor|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -331,7 +331,7 @@ const products = {
         url: [
           { path: require('../assets/man/m-1-20-z.jpg'), type: 'z' },
           { path: require('../assets/man/m-1-20-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-1-20-f.jpg'), type: 't' }
+          { path: require('../assets/man/m-1-20-t.jpg'), type: 't' }
         ],
         detail: {
           'features': 'Detailed Features|100% Polyester|Black|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -347,7 +347,7 @@ const products = {
         url: [
           { path: require('../assets/man/m-1-21-z.jpg'), type: 'z' },
           { path: require('../assets/man/m-1-21-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-1-21-f.jpg'), type: 't' }
+          { path: require('../assets/man/m-1-21-t.jpg'), type: 't' }
         ],
         detail: {
           'features': 'Detailed Features|100% Polyester|Black|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -363,7 +363,7 @@ const products = {
         url: [
           { path: require('../assets/man/m-1-22-z.jpg'), type: 'z' },
           { path: require('../assets/man/m-1-22-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-1-22-f.jpg'), type: 't' }
+          { path: require('../assets/man/m-1-22-t.jpg'), type: 't' }
         ],
         detail: {
           'features': 'Detailed Features|100% Polyester|Red|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -379,7 +379,7 @@ const products = {
         url: [
           { path: require('../assets/man/m-1-23-z.jpg'), type: 'z' },
           { path: require('../assets/man/m-1-23-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-1-23-f.jpg'), type: 't' }
+          { path: require('../assets/man/m-1-23-t.jpg'), type: 't' }
         ],
         detail: {
           'features': 'Detailed Features|100% Polyester|Orange|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -395,7 +395,7 @@ const products = {
         url: [
           { path: require('../assets/man/m-1-24-z.jpg'), type: 'z' },
           { path: require('../assets/man/m-1-24-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-1-24-f.jpg'), type: 't' }
+          { path: require('../assets/man/m-1-24-t.jpg'), type: 't' }
         ],
         detail: {
           'features': 'Detailed Features|100% Polyester|Green|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
