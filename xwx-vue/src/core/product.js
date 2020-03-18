@@ -5,6 +5,40 @@ const products = {
     ],
     [
       {
+        'id': 'm-1-TB0890T08890',
+        'chineseName': '白色小丑半拉链',
+        'name': 'JOKER PRINTED MULTI ZIPPED SWEATSHIRT',
+        'detail': {
+          'features': 'Detailed Features|100% POLYESTER|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': 'XS/S/M/L'
+        },
+        url: [
+          { path: require('../assets/man/m-1-TB0890T08890-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-1-TB0890T08890-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-TB0890T08890-t.jpg'), type: 't' },
+          { path: require('../assets/man/m-1-TB0890T08890-1.jpg'), type: 'n' }
+        ],
+        'price': 370,
+        'upDate': '2019-10-3'
+      },
+      {
+        'id': 'm-1-TB0890T66732',
+        'chineseName': '黑色小丑半拉链',
+        'name': 'JOKER PRINTED MULTI ZIPPED SWEATSHIRT',
+        url: [
+          { path: require('../assets/man/m-1-TB0890T66732-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-1-TB0890T66732-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-TB0890T66732-t.jpg'), type: 't' },
+          { path: require('../assets/man/m-1-TB0890T66732-1.jpg'), type: 'n' }
+        ],
+        'detail': {
+          'features': 'Detailed Features|100% POLYESTER|Black|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': 'XS/S/M/L'
+        },
+        'price': 370,
+        'upDate': '2019-10-4'
+      },
+      {
         id: 'm-1-0',
         chineseName: '白色玫瑰花',
         name: 'ROSE EMBROIDERY DENIM JACKET',
@@ -199,7 +233,7 @@ const products = {
       {
         id: 'm-1-12',
         chineseName: '黑色狮子皮草',
-        name: 'BLACK PANTHER PRINTED FUR JACKET',
+        name: 'LION PRINTED FUR JACKET',
         url: [
           { path: require('../assets/man/m-1-12-z.jpg'), type: 'z' },
           { path: require('../assets/man/m-1-12-f.jpg'), type: 'f' },
@@ -233,9 +267,9 @@ const products = {
         chineseName: '黑色小丑皮草',
         name: 'JOKER PRINTED FUR JACKET',
         url: [
-          { path: require('../assets/man/m-1-13-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-1-13-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-1-13-t.jpg'), type: 't' }
+          { path: require('../assets/man/m-1-14-f.jpg'), type: 'f' },
+          { path: require('../assets/man/m-1-14-z.jpg'), type: 'z' },
+          { path: require('../assets/man/m-1-14-t.jpg'), type: 't' }
         ],
         detail: {
           'features': 'Detailed Features|Fabric|73% Polyester|27% Rabbit fur|Lining|100% Polyamide|Black|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -640,7 +674,10 @@ const products = {
         url: [
           { path: require('../assets/man/m-3-0-z.jpg'), type: 'z' },
           { path: require('../assets/man/m-3-0-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-3-0-t.jpg'), type: 't' }
+          { path: require('../assets/man/m-3-0-t.jpg'), type: 't' },
+          { path: require('../assets/man/m-3-0-1.jpg'), type: 'n' },
+          { path: require('../assets/man/m-3-0-2.jpg'), type: 'n' },
+          { path: require('../assets/man/m-3-0-3.jpg'), type: 'n' }
         ],
         detail: {
           'features': '70% Cotton|22% Archylic|5% Polyamide|2% Polyester|1% Wool|White|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -656,7 +693,9 @@ const products = {
         url: [
           { path: require('../assets/man/m-3-1-z.jpg'), type: 'z' },
           { path: require('../assets/man/m-3-1-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-3-1-t.jpg'), type: 't' }
+          { path: require('../assets/man/m-3-1-t.jpg'), type: 't' },
+          { path: require('../assets/man/m-3-1-1.jpg'), type: 'n' },
+          { path: require('../assets/man/m-3-1-2.jpg'), type: 'n' }
         ],
         detail: {
           'features': '70% Cotton|22% Archylic|5% Polyamide|2% Polyester|1% Wool|Multicolor/white|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -1218,9 +1257,89 @@ const products = {
         },
         price: 550,
         upDate: '2019-9-18'
+      },
+      {
+        'id': 'w-1-SW0201D44565',
+        'chineseName': '宇航员开衫',
+        'name': 'EMBROIDERY KNITTED CARDIGAN',
+        url: [
+          { path: require('../assets/women/w-1-SW0201D44565-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-1-SW0201D44565-t.jpg'), type: 't' },
+          { path: require('../assets/women/w-1-SW0201D44565-z.jpg'), type: 'z' }
+        ],
+        'detail': {
+          'features': 'Detailed Features|55% COTTON|38% POLYAMIDE|7% SILK|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': 'XS/S/M'
+        },
+        'price': 490,
+        'upDate': '2019-9-14'
       }
     ],
     [
+      {
+        'id': 'w-2-SR06836A0945',
+        'chineseName': '黄色蕾丝毛衣',
+        'name': 'LACE EMBELLISHED SWEATER',
+        url: [
+          { path: require('../assets/women/w-2-SR06836A0945-z.jpg'), type: 'z' },
+          { path: require('../assets/women/w-2-SR06836A0945-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-2-SR06836A0945-t.jpg'), type: 't' }
+        ],
+        'detail': {
+          'features': 'Detailed Features|Fabric|100% Wool|Trim|100% Polyamide|Yellow|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': 'XS/S/M'
+        },
+        'price': 360,
+        'upDate': '2019-10-13'
+      },
+      {
+        'id': 'w-2-SR06836A4626',
+        'chineseName': '墨绿色蕾丝毛衣',
+        'name': 'LACE EMBELLISHED SWEATER',
+        url: [
+          { path: require('../assets/women/w-2-SR06836A4626-z.jpg'), type: 'z' },
+          { path: require('../assets/women/w-2-SR06836A4626-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-2-SR06836A4626-t.jpg'), type: 't' }
+        ],
+        'detail': {
+          'features': 'Detailed Features|Fabric|100% Wool|Trim|100% Polyamide|Dark green|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': 'XS/S/M'
+        },
+        'price': 360,
+        'upDate': '2019-10-14'
+      },
+      {
+        'id': 'w-2-SR06836A5067',
+        'chineseName': '蓝色蕾丝毛衣',
+        'name': 'LACE EMBELLISHED SWEATER',
+        url: [
+          { path: require('../assets/women/w-2-SR06836A5067-z.jpg'), type: 'z' },
+          { path: require('../assets/women/w-2-SR06836A5067-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-2-SR06836A5067-t.jpg'), type: 't' }
+        ],
+        'detail': {
+          'features': 'Detailed Features|Fabric|100% Wool|Trim|100% Polyamide|Blue|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': 'XS/S/M'
+        },
+        'price': 360,
+        'upDate': '2019-10-15'
+      },
+      {
+        'id': 'w-2-SR06836A5620',
+        'chineseName': '白色蕾丝毛衣',
+        'name': 'LACE EMBELLISHED SWEATER',
+        url: [
+          { path: require('../assets/women/w-2-SR06836A5620-z.jpg'), type: 'z' },
+          { path: require('../assets/women/w-2-SR06836A5620-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-2-SR06836A5620-t.jpg'), type: 't' }
+        ],
+        'detail': {
+          'features': 'Detailed Features|Fabric|100% Wool|Trim|100% Polyamide|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': 'XS/S/M'
+        },
+        'price': 360,
+        'upDate': '2019-10-16'
+      },
       {
         id: 'w-2-0',
         chineseName: '铁塔毛衣-白色',
@@ -1424,7 +1543,7 @@ const products = {
         url: [
           { path: require('../assets/women/w-2-10-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-2-10-f.jpg'), type: 'f' },
-          { path: require('../assets/women/w-2-10-z.jpg'), type: 'z' }
+          { path: require('../assets/women/w-2-10-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '60%  KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|Green/red|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -1432,6 +1551,41 @@ const products = {
         },
         price: 320,
         upDate: '2019-6-9'
+      },
+      {
+        id: 'w-2-11',
+        chineseName: '亮片红唇开衫',
+        name: 'All OVER LOGO KNITTED CARDIGAN',
+        url: [
+          { path: require('../assets/women/w-2-11-z.jpg'), type: 'z' },
+          { path: require('../assets/women/w-2-11-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-2-11-t.jpg'), type: 't' },
+          { path: require('../assets/women/w-2-11-1.jpg'), type: 'n' },
+          { path: require('../assets/women/w-2-11-2.jpg'), type: 'n' }
+        ],
+        detail: {
+          'features': 'Detailed Features|60%  KID MOHAIR|29%  POLYAMIDE|8%   WOOL|3%   POLYPROPYLENE|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning\n',
+          'size': 'XS/S/M'
+        },
+        price: 480,
+        upDate: '2019-9-15'
+      },
+      {
+        id: 'w-2-12',
+        chineseName: '兔子开衫',
+        name: 'RABBIT KNITTED CARDIGAN',
+        url: [
+          { path: require('../assets/women/w-2-12-z.jpg'), type: 'z' },
+          { path: require('../assets/women/w-2-12-f.jpg'), type: 'f' },
+          { path: require('../assets/women/w-2-12-t.jpg'), type: 't' },
+          { path: require('../assets/women/w-2-12-1.jpg'), type: 'n' }
+        ],
+        detail: {
+          'features': 'Detailed Features|60%  KID MOHAIR|29%  POLYAMIDE|8%   WOOL|3%   POLYPROPYLENE|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning\n',
+          'size': 'XS/S/M'
+        },
+        price: 480,
+        upDate: '2019-9-16'
       }
     ],
     [
