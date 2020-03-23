@@ -15,7 +15,7 @@ const products = {
         url: [
           { path: require('../assets/man/m-1-TB0890T08890-f.jpg'), type: 'f' },
           { path: require('../assets/man/m-1-TB0890T08890-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-1-TB0890T08890-t.jpg'), type: 't' },
+          { path: require('../assets/man/m-1-TB0890T08890-f.jpg'), type: 't' },
           { path: require('../assets/man/m-1-TB0890T08890-1.jpg'), type: 'n' }
         ],
         'price': 370,
