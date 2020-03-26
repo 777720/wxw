@@ -13,10 +13,10 @@ const products = {
           'size': 'XS/S/M/L'
         },
         url: [
-          { path: require('../assets/man/m-1-TB0890T08890-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-1-TB0890T08890-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-1-TB0890T08890-f.jpg'), type: 't' },
-          { path: require('../assets/man/m-1-TB0890T08890-1.jpg'), type: 'n' }
+          { path: 'https://andreamartinofficial.com/image/m-1-TB0890T08890-f.jpg', type: 'f' },
+          { path: 'https://andreamartinofficial.com/image/m-1-TB0890T08890-z.jpg', type: 'z' },
+          { path: 'https://andreamartinofficial.com/image/m-1-TB0890T08890-t.jpg', type: 't' },
+          { path: 'https://andreamartinofficial.com/image/m-1-TB0890T08890-n.jpg', type: 'n' }
         ],
         'price': 370,
         'upDate': '2019-10-3'
@@ -26,10 +26,10 @@ const products = {
         'chineseName': '黑色小丑半拉链',
         'name': 'JOKER PRINTED MULTI ZIPPED SWEATSHIRT',
         url: [
-          { path: require('../assets/man/m-1-TB0890T66732-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-1-TB0890T66732-z.jpg'), type: 'z' },
-          { path: require('../assets/man/m-1-TB0890T66732-t.jpg'), type: 't' },
-          { path: require('../assets/man/m-1-TB0890T66732-1.jpg'), type: 'n' }
+          { path: 'https://andreamartinofficial.com/image/m-1-TB0890T66732-f.jpg', type: 'f' },
+          { path: 'https://andreamartinofficial.com/image/m-1-TB0890T66732-z.jpg', type: 'z' },
+          { path: 'https://andreamartinofficial.com/image/m-1-TB0890T66732-t.jpg', type: 't' },
+          { path: 'https://andreamartinofficial.com/image/m-1-TB0890T66732-n.jpg', type: 'n' }
         ],
         'detail': {
           'features': 'Detailed Features|100% POLYESTER|Black|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -674,10 +674,7 @@ const products = {
         url: [
           { path: require('../assets/man/m-3-0-z.jpg'), type: 'z' },
           { path: require('../assets/man/m-3-0-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-3-0-t.jpg'), type: 't' },
-          { path: require('../assets/man/m-3-0-1.jpg'), type: 'n' },
-          { path: require('../assets/man/m-3-0-2.jpg'), type: 'n' },
-          { path: require('../assets/man/m-3-0-3.jpg'), type: 'n' }
+          { path: require('../assets/man/m-3-0-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '70% Cotton|22% Archylic|5% Polyamide|2% Polyester|1% Wool|White|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -693,9 +690,7 @@ const products = {
         url: [
           { path: require('../assets/man/m-3-1-z.jpg'), type: 'z' },
           { path: require('../assets/man/m-3-1-f.jpg'), type: 'f' },
-          { path: require('../assets/man/m-3-1-t.jpg'), type: 't' },
-          { path: require('../assets/man/m-3-1-1.jpg'), type: 'n' },
-          { path: require('../assets/man/m-3-1-2.jpg'), type: 'n' }
+          { path: require('../assets/man/m-3-1-t.jpg'), type: 't' }
         ],
         detail: {
           'features': '70% Cotton|22% Archylic|5% Polyamide|2% Polyester|1% Wool|Multicolor/white|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -1263,9 +1258,9 @@ const products = {
         'chineseName': '宇航员开衫',
         'name': 'EMBROIDERY KNITTED CARDIGAN',
         url: [
+          { path: require('../assets/women/w-1-SW0201D44565-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-1-SW0201D44565-f.jpg'), type: 'f' },
-          { path: require('../assets/women/w-1-SW0201D44565-t.jpg'), type: 't' },
-          { path: require('../assets/women/w-1-SW0201D44565-z.jpg'), type: 'z' }
+          { path: require('../assets/women/w-1-SW0201D44565-t.jpg'), type: 't' }
         ],
         'detail': {
           'features': 'Detailed Features|55% COTTON|38% POLYAMIDE|7% SILK|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -1559,9 +1554,7 @@ const products = {
         url: [
           { path: require('../assets/women/w-2-11-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-2-11-f.jpg'), type: 'f' },
-          { path: require('../assets/women/w-2-11-t.jpg'), type: 't' },
-          { path: require('../assets/women/w-2-11-1.jpg'), type: 'n' },
-          { path: require('../assets/women/w-2-11-2.jpg'), type: 'n' }
+          { path: require('../assets/women/w-2-11-t.jpg'), type: 't' }
         ],
         detail: {
           'features': 'Detailed Features|60%  KID MOHAIR|29%  POLYAMIDE|8%   WOOL|3%   POLYPROPYLENE|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning\n',
@@ -1577,8 +1570,7 @@ const products = {
         url: [
           { path: require('../assets/women/w-2-12-z.jpg'), type: 'z' },
           { path: require('../assets/women/w-2-12-f.jpg'), type: 'f' },
-          { path: require('../assets/women/w-2-12-t.jpg'), type: 't' },
-          { path: require('../assets/women/w-2-12-1.jpg'), type: 'n' }
+          { path: require('../assets/women/w-2-12-t.jpg'), type: 't' }
         ],
         detail: {
           'features': 'Detailed Features|60%  KID MOHAIR|29%  POLYAMIDE|8%   WOOL|3%   POLYPROPYLENE|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning\n',
