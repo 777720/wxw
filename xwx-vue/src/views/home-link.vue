@@ -9,9 +9,11 @@
     </div>
 </template>
 <script>
-import products from '../core/product'
+// import products from '../core/product'
 import Common from '../core/common'
 import ShopList from '../views/shop-list'
+import manList from '../core/products/man'
+import womanList from '../core/products/woman'
 export default {
   components: {
     ShopList
@@ -20,8 +22,15 @@ export default {
     const { listName } = this.$route.query
     const waitSearchPucts = this[listName]
     const typeIndex = waitSearchPucts.type
+    let allTypeProducts = []
+    if (typeIndex === 'man') {
+      allTypeProducts = manList.flat()
+    } else {
+      allTypeProducts = womanList.flat()
+    }
     let checkProducts = []
-    let allTypeProducts = products[typeIndex].flat()
+    //  let allTypeProducts = products[typeIndex].flat()
+    console.log('allTypeProducts', allTypeProducts)
     allTypeProducts.forEach((item, index) => {
       let findIndex = waitSearchPucts.produts.findIndex((waitItem) => {
         return waitItem === item.id

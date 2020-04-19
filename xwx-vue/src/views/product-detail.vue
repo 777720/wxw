@@ -181,7 +181,8 @@
 </template>
 <script>
 import Media from 'vue-media'
-import product from '../core/product'
+import manList from '../core/products/man'
+import womanList from '../core/products/woman'
 
 export default {
   components: {
@@ -191,7 +192,12 @@ export default {
     const { id } = this.$route.params
     const idArr = id.split('-')
     let type = idArr[0] === 'm' ? 'man' : 'women'
-    const fullArr = product[type][idArr[1]]
+    let fullArr = []
+    if (type === 'man') {
+      fullArr = manList[idArr[1]]
+    } else {
+      fullArr = womanList[idArr[1]]
+    }
     for (let i = 0; i < fullArr.length; i++) {
       if (fullArr[i].id === id) {
         this.productData = fullArr[i]

@@ -11,7 +11,8 @@
 <script>
 import ShopList from './shop-list'
 import Common from '../core/common'
-import products from '../core/product'
+import manList from '../core/products/man'
+import womanList from '../core/products/woman'
 
 export default {
   components: {
@@ -34,14 +35,8 @@ export default {
   methods: {
     changeDataFn () {
       let listDataTemp = [
-        ...products['man'][1],
-        ...products['man'][2],
-        ...products['man'][3],
-        ...products['man'][4],
-        ...products['women'][1],
-        ...products['women'][2],
-        ...products['women'][3],
-        ...products['women'][4]
+        ...manList,
+        ...womanList
       ]
 
       this.listData = Common.sortDataByDate(listDataTemp)
