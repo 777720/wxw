@@ -35,12 +35,10 @@ export default {
   methods: {
     changeDataFn () {
       let listDataTemp = [
-        ...manList,
-        ...womanList
+        ...manList.flat(),
+        ...womanList.flat()
       ]
-
       this.listData = Common.sortDataByDate(listDataTemp)
-
       this.categoryTitle = 'What’s New'
     }
   }
