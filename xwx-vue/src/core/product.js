@@ -438,7 +438,6 @@ const products = {
         price: 370,
         upDate: '2019-10-1'
       }
-
     ],
     [
       {
@@ -1268,6 +1267,81 @@ const products = {
         },
         'price': 490,
         'upDate': '2019-9-14'
+      },
+      {
+        'id': 'w-1-NS56042N9042',
+        'chineseName': '满印乌鸦提花夹克',
+        'name': 'CROW PATTERN DYED FUR JACKET',
+        'url': [
+          {
+            'path': 'https://andreamartinofficial.com/image/w-1-NS56042N9042-z.jpg',
+            'type': 'z'
+          },
+          {
+            'path': 'https://andreamartinofficial.com/image/w-1-NS56042N9042-f.jpg',
+            'type': 'f'
+          },
+          {
+            'path': 'https://andreamartinofficial.com/image/w-1-NS56042N9042-t.jpg',
+            'type': 't'
+          }
+        ],
+        'detail': {
+          'features': 'Detailed Features|100% Polyester|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': '1/2/3'
+        },
+        'price': '550',
+        'upDate': '2019-10-5'
+      },
+      {
+        'id': 'w-1-NS56042N5435',
+        'chineseName': '满印骰子提花夹克',
+        'name': 'DICE PATTERN DYED FUR JACKET',
+        'url': [
+          {
+            'path': 'https://andreamartinofficial.com/image/w-1-NS56042N5435-z.jpg',
+            'type': 'z'
+          },
+          {
+            'path': 'https://andreamartinofficial.com/image/w-1-NS56042N5435-f.jpg',
+            'type': 'f'
+          },
+          {
+            'path': 'https://andreamartinofficial.com/image/w-1-NS56042N5435-t.jpg',
+            'type': 't'
+          }
+        ],
+        'detail': {
+          'features': 'Detailed Features|100% Polyester|Dark purple|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': '1/2/3'
+        },
+        'price': '550',
+        'upDate': '2019-10-6'
+      },
+      {
+        'id': 'w-1-NS56042N5378',
+        'chineseName': '满印手枪提花夹克',
+        'name': 'REVOLVER PATTERN DYED FUR JACKET',
+        'url': [
+          {
+            'path': 'https://andreamartinofficial.com/image/w-1-NS56042N5378-z.jpg',
+            'type': 'z'
+          },
+          {
+            'path': 'https://andreamartinofficial.com/image/w-1-NS56042N5378-f.jpg',
+            'type': 'f'
+          },
+          {
+            'path': 'https://andreamartinofficial.com/image/w-1-NS56042N5378-t.jpg',
+            'type': 't'
+          }
+        ],
+        'detail': {
+          'features': 'Detailed Features|100% Polyester|Black|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+          'size': '1/2/3'
+        },
+        'price': '550',
+        'upDate': '2019-10-7'
       }
     ],
     [

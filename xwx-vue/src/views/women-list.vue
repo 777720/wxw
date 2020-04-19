@@ -10,9 +10,14 @@
 </template>
 <script>
 import ShopList from './shop-list'
-import products from '../core/product'
+import womanList from '../core/products/woman'
 import Const from '../core/const'
 import Common from '../core/common'
+
+import womanOnelist from '../core/products/woman-1'
+import womanTwolist from '../core/products/woman-2'
+import womanThreelist from '../core/products/woman-3'
+import womanFourlist from '../core/products/woman-4'
 
 export default {
   components: {
@@ -36,19 +41,18 @@ export default {
     changeDataFn () {
       const { id } = this.$route.query
       const idArr = id.split('-')
-      const typeIndex = 'women'
       let listDataTemp
       if (id === '0-0') {
         listDataTemp = [
-          ...products[typeIndex][1],
-          ...products[typeIndex][2],
-          ...products[typeIndex][3],
-          ...products[typeIndex][4]
+          ...womanOnelist,
+          ...womanTwolist,
+          ...womanThreelist,
+          ...womanFourlist
         ]
         this.categoryTitle = 'New Arrivals'
       } else {
         this.categoryTitle = Const.womenTitleArr[parseInt(idArr[1])]
-        listDataTemp = products[typeIndex][parseInt(idArr[1])]
+        listDataTemp = womanList[parseInt(idArr[1])]
       }
       this.listData = Common.sortDataByDate(listDataTemp)
     }
