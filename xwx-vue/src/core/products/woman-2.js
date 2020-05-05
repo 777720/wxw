@@ -301,8 +301,7 @@ const womanTwolist = [
     url: [
       { path: 'https://andreamartinofficial.com/image/w-2-12-z.jpg', type: 'z' },
       { path: 'https://andreamartinofficial.com/image/w-2-12-f.jpg', type: 'f' },
-      { path: 'https://andreamartinofficial.com/image/w-2-12-t.jpg', type: 't' },
-      { path: 'https://andreamartinofficial.com/image/w-2-12-1.jpeg', type: 'n' }
+      { path: 'https://andreamartinofficial.com/image/w-2-12-t.jpg', type: 't' }
     ],
     detail: {
       'features': 'Detailed Features|60%  KID MOHAIR|29%  POLYAMIDE|8%   WOOL|3%   POLYPROPYLENE|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning\n',

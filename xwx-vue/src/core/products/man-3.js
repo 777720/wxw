@@ -22,9 +22,7 @@ const manThreeList = [
     url: [
       { path: 'https://andreamartinofficial.com/image/m-3-1-z.jpg', type: 'z' },
       { path: 'https://andreamartinofficial.com/image/m-3-1-f.jpg', type: 'f' },
-      { path: 'https://andreamartinofficial.com/image/m-3-1-t.jpg', type: 't' },
-      { path: 'https://andreamartinofficial.com/image/m-3-1-1.jpeg', type: 'n' },
-      { path: 'https://andreamartinofficial.com/image/m-3-1-2.jpeg', type: 'n' }
+      { path: 'https://andreamartinofficial.com/image/m-3-1-t.jpg', type: 't' }
     ],
     detail: {
       'features': '70% Cotton|22% Archylic|5% Polyamide|2% Polyester|1% Wool|Multicolor/white|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -40,8 +38,7 @@ const manThreeList = [
     url: [
       { path: 'https://andreamartinofficial.com/image/m-3-2-z.jpg', type: 'z' },
       { path: 'https://andreamartinofficial.com/image/m-3-2-f.jpg', type: 'f' },
-      { path: 'https://andreamartinofficial.com/image/m-3-2-t.jpg', type: 't' },
-      { path: 'https://andreamartinofficial.com/image/m-3-2-1.jpeg', type: 'n' }
+      { path: 'https://andreamartinofficial.com/image/m-3-2-t.jpg', type: 't' }
     ],
     detail: {
       'features': '70% Cotton|22% Archylic|5% Polyamide|2% Polyester|1% Wool|Pink/white|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -57,9 +54,7 @@ const manThreeList = [
     url: [
       { path: 'https://andreamartinofficial.com/image/m-3-3-z.jpg', type: 'z' },
       { path: 'https://andreamartinofficial.com/image/m-3-3-f.jpg', type: 'f' },
-      { path: 'https://andreamartinofficial.com/image/m-3-3-t.jpg', type: 't' },
-      { path: 'https://andreamartinofficial.com/image/m-3-3-1.jpeg', type: 'n' },
-      { path: 'https://andreamartinofficial.com/image/m-3-3-2.jpeg', type: 'n' }
+      { path: 'https://andreamartinofficial.com/image/m-3-3-t.jpg', type: 't' }
     ],
     detail: {
       'features': '70% Cotton|22% Archylic|5% Polyamide|2% Polyester|1% Wool|Black/white|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',

@@ -379,11 +379,11 @@ const manTwoList = [
     'name': 'JOKER PRINTED HOODIE',
     'url': [
       {
-        'path': 'https://andreamartinofficial.com/image/m-2-TK0612D15075-z.jpg',
+        'path': 'https://andreamartinofficial.com/image/m-2-TK0612D15075-f.jpg',
         'type': 'z'
       },
       {
-        'path': 'https://andreamartinofficial.com/image/m-2-TK0612D15075-f.jpg',
+        'path': 'https://andreamartinofficial.com/image/m-2-TK0612D15075-z.jpg',
         'type': 'f'
       },
       {
