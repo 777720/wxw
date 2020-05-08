@@ -106,8 +106,7 @@ const womanTwolist = [
       { path: 'https://andreamartinofficial.com/image/w-2-2-t.jpg', type: 'z' },
       { path: 'https://andreamartinofficial.com/image/w-2-2-2.jpg', type: 'n' },
       { path: 'https://andreamartinofficial.com/image/w-2-2-3.jpg', type: 'n' },
-      { path: 'https://andreamartinofficial.com/image/w-2-2-4.jpg', type: 'n' },
-      { path: 'https://andreamartinofficial.com/image/w-2-2-5.jpeg', type: 'n' }
+      { path: 'https://andreamartinofficial.com/image/w-2-2-4.jpg', type: 'n' }
     ],
     detail: {
       'features': '60% KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -127,8 +126,7 @@ const womanTwolist = [
       { path: 'https://andreamartinofficial.com/image/w-2-3-t.jpg', type: 't' },
       { path: 'https://andreamartinofficial.com/image/w-3-1-2.jpg', type: 'n' },
       { path: 'https://andreamartinofficial.com/image/w-3-1-3.jpg', type: 'n' },
-      { path: 'https://andreamartinofficial.com/image/w-3-1-4.jpg', type: 'n' },
-      { path: 'https://andreamartinofficial.com/image/w-2-3-5.jpeg', type: 'n' }
+      { path: 'https://andreamartinofficial.com/image/w-3-1-4.jpg', type: 'n' }
     ],
     detail: {
       'features': '60% KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|White|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -188,8 +186,7 @@ const womanTwolist = [
       { path: 'https://andreamartinofficial.com/image/w-2-5-t.jpg', type: 't' },
       { path: 'https://andreamartinofficial.com/image/w-3-4-2.jpg', type: 'n' },
       { path: 'https://andreamartinofficial.com/image/w-3-4-3.jpg', type: 'n' },
-      { path: 'https://andreamartinofficial.com/image/w-3-4-4.jpg', type: 'n' },
-      { path: 'https://andreamartinofficial.com/image/w-2-5-5.jpeg', type: 'n' }
+      { path: 'https://andreamartinofficial.com/image/w-3-4-4.jpg', type: 'n' }
     ],
     detail: {
       'features': '60% KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|Multicolor|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
