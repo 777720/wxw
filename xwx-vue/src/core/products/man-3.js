@@ -6,7 +6,12 @@ const manThreeList = [
     url: [
       { path: 'https://andreamartinofficial.com/image/m-3-0-z.jpg', type: 'z' },
       { path: 'https://andreamartinofficial.com/image/m-3-0-f.jpg', type: 'f' },
-      { path: 'https://andreamartinofficial.com/image/m-3-0-t.jpg', type: 't' }
+      { path: 'https://andreamartinofficial.com/image/m-3-0-t.jpg', type: 't' },
+      { path: 'https://andreamartinofficial.com/image/m-3-0-1.jpeg', type: 'n' },
+      { path: 'https://andreamartinofficial.com/image/m-3-0-2.jpeg', type: 'n' },
+      { path: 'https://andreamartinofficial.com/image/m-3-0-3.jpeg', type: 'n' },
+      { path: 'https://andreamartinofficial.com/image/m-3-0-4.jpeg', type: 'n' }
+
     ],
     detail: {
       'features': '70% Cotton|22% Archylic|5% Polyamide|2% Polyester|1% Wool|White|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
