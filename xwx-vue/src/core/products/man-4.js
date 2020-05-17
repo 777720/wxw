@@ -609,6 +609,55 @@ const manFourList = [
     },
     'price': '295',
     'upDate': '2019-11-11'
+  },
+  {
+    'id': 'm-4-CF498573A759',
+    'chineseName': '黄色卡通帽衫',
+    'name': 'HOODIE/WINNIE THE POOH',
+    'url': [
+      {
+        'path': 'https://andreamartinofficial.com/image/m-4-CF498573A759-z.jpg',
+        'type': 'z'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-4-CF498573A759-f.jpg',
+        'type': 'f'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-4-CF498573A759-t1.jpg',
+        'type': 't'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-4-CF498573A759-t2.jpg',
+        'type': 'n'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-4-CF498573A759-t3.jpg',
+        'type': 'n'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-4-CF498573A759-t4.jpg',
+        'type': 'n'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-4-CF498573A759-t5.jpg',
+        'type': 'n'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-4-CF498573A759-t6.jpg',
+        'type': 'n'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-4-CF498573A759-t7.jpg',
+        'type': 'n'
+      }
+    ],
+    'detail': {
+      'features': 'Detailed Features|70% Cotton|Yellow|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+      'size': 'XS/S/M/L'
+    },
+    'price': '320',
+    'upDate': '2018-1-1'
   }
 ]
 

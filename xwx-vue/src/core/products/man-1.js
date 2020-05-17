@@ -432,6 +432,31 @@ const manOneList = [
     },
     price: 370,
     upDate: '2019-10-1'
+  },
+  {
+    'id': 'm-1-SW112306B7749',
+    'chineseName': '黑色破洞西装',
+    'name': 'BROKEN BLAZER',
+    'url': [
+      {
+        'path': 'https://andreamartinofficial.com/image/m-1-SW112306B7749-z.jpg',
+        'type': 'z'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-1-SW112306B7749-f.jpg',
+        'type': 'f'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-1-SW112306B7749-t.jpg',
+        'type': 't'
+      }
+    ],
+    'detail': {
+      'features': 'Detailed Features|70% POLYESTER|20% RAYON|10% WOOL|Black|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+      'size': 'S/M'
+    },
+    'price': '470',
+    'upDate': '2019-12-11'
   }
 ]
 

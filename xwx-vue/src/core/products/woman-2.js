@@ -306,6 +306,106 @@ const womanTwolist = [
     },
     price: 480,
     upDate: '2019-9-16'
+  },
+  {
+    'id': 'w-2-SW22301U0020',
+    'chineseName': '蓝色毛圈开衫',
+    'name': 'FURRY KNITTED CARDIGAN',
+    'url': [
+      {
+        'path': 'https://andreamartinofficial.com/image/w-2-SW22301U0020-z.jpg',
+        'type': 'z'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/w-2-SW22301U0020-f.jpg',
+        'type': 'f'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/w-2-SW22301U0020-t.jpg',
+        'type': 't'
+      }
+    ],
+    'detail': {
+      'features': 'Detailed Features|45% VISCOSE|30% WOOL|25% POLYAMIDE|Arctic Blue|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+      'size': 'S/M/L'
+    },
+    'price': '400',
+    'upDate': '2019-11-18'
+  },
+  {
+    'id': 'w-2-SW22301U4528',
+    'chineseName': '紫色毛圈开衫',
+    'name': 'FURRY KNITTED CARDIGAN',
+    'url': [
+      {
+        'path': 'https://andreamartinofficial.com/image/w-2-SW22301U4528-z.jpg',
+        'type': 'z'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/w-2-SW22301U4528-f.jpg',
+        'type': 'f'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/w-2-SW22301U4528-t.jpg',
+        'type': 't'
+      }
+    ],
+    'detail': {
+      'features': 'Detailed Features|45% VISCOSE|30% WOOL|25% POLYAMIDE|Violet|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+      'size': 'S/M/L'
+    },
+    'price': '400',
+    'upDate': '2019-11-19'
+  },
+  {
+    'id': 'w-2-SW22301U7521',
+    'chineseName': '白色毛圈开衫',
+    'name': 'FURRY KNITTED CARDIGAN',
+    'url': [
+      {
+        'path': 'https://andreamartinofficial.com/image/m-2-SW22301U7521-z.jpg',
+        'type': 'z'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-2-SW22301U7521-f.jpg',
+        'type': 'f'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-2-SW22301U7521-t.jpg',
+        'type': 't'
+      }
+    ],
+    'detail': {
+      'features': 'Detailed Features|45% VISCOSE|30% WOOL|25% POLYAMIDE|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+      'size': 'S/M/L'
+    },
+    'price': '400',
+    'upDate': '2019-11-20'
+  },
+  {
+    'id': 'w-2-SW47620B6043',
+    'chineseName': '花卉开衫',
+    'name': 'ZIP-UP SWEATER/FLOWERS',
+    'url': [
+      {
+        'path': 'https://andreamartinofficial.com/image/w-2-SW47620B6043-z.jpg',
+        'type': 'z'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/w-2-SW47620B6043-f.jpg',
+        'type': 'f'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/w-2-SW47620B6043-t.jpg',
+        'type': 't'
+      }
+    ],
+    'detail': {
+      'features': 'Detailed Features|65% VISCOSE|35% POLYAMIDE|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+      'size': 'S/M/L'
+    },
+    'price': '380',
+    'upDate': '2019-11-21'
   }
 ]
 
