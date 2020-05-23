@@ -483,7 +483,7 @@ const womanFourlist = [
       }
     ],
     'detail': {
-      'features': 'Detailed Features|70% COTTON|22% ACRYLIC|5% POLYAMIDE|2% POLYESTER|1% WOOL|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+      'features': 'Detailed Features|70% COTTON|22% ACRYLIC|5% POLYAMIDE|2% POLYESTER|1% WOOL|Pink|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
       'size': 'S/M/L'
     },
     'price': '300',
@@ -508,7 +508,7 @@ const womanFourlist = [
       }
     ],
     'detail': {
-      'features': 'Detailed Features|70% COTTON|22% ACRYLIC|5% POLYAMIDE|2% POLYESTER|1% WOOL|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+      'features': 'Detailed Features|70% COTTON|22% ACRYLIC|5% POLYAMIDE|2% POLYESTER|1% WOOL|Blue|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
       'size': 'S/M/L'
     },
     'price': '300',
