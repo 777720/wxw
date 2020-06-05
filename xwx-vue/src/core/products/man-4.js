@@ -658,6 +658,131 @@ const manFourList = [
     },
     'price': '320',
     'upDate': '2018-1-1'
+  },
+  {
+    'id': 'm-4-SW03419M8001',
+    'chineseName': '薄荷绿海鸥短袖',
+    'name': ' KNIT PATCH POCKET T-SHIRT',
+    'url': [
+      {
+        'path': 'https://andreamartinofficial.com/image/m-4-SW03419M8001-z.jpg',
+        'type': 'z'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-4-SW03419M8001-f.jpg',
+        'type': 'f'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-4-SW03419M8001-t.jpg',
+        'type': 't'
+      }
+    ],
+    'detail': {
+      'features': 'Detailed Features|100% COTTON|TURQUOISE|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+      'size': 'XS/S/M/L'
+    },
+    'price': '240',
+    'upDate': '2019/12/24'
+  },
+  {
+    'id': 'm-4-SW03419M8093',
+    'chineseName': '军绿色狐狸短袖',
+    'name': ' KNIT PATCH POCKET T-SHIRT',
+    'url': [
+      {
+        'path': 'https://andreamartinofficial.com/image/m-4-SW03419M8093-z.jpg',
+        'type': 'z'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-4-SW03419M8093-f.jpg',
+        'type': 'f'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-4-SW03419M8093-t.jpg',
+        'type': 't'
+      }
+    ],
+    'detail': {
+      'features': 'Detailed Features|100% COTTON|GREEN|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+      'size': 'XS/S/M/L'
+    },
+    'price': '240',
+    'upDate': '2019/12/25'
+  },
+  {
+    'id': 'm-4-SW03419M1313',
+    'chineseName': '浅蓝色鲸鱼短袖',
+    'name': ' KNIT PATCH POCKET T-SHIRT',
+    'url': [
+      {
+        'path': 'https://andreamartinofficial.com/image/m-4-SW03419M1313-z.jpg',
+        'type': 'z'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-4-SW03419M1313-f.jpg',
+        'type': 'f'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-4-SW03419M1313-t.jpg',
+        'type': 't'
+      }
+    ],
+    'detail': {
+      'features': 'Detailed Features|100% COTTON|LIGHT BLUE|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+      'size': 'XS/S/M/L'
+    },
+    'price': '240',
+    'upDate': '2019/12/26'
+  },
+  {
+    'id': 'm-4-SW03419M7312',
+    'chineseName': '酒红色奶牛短袖',
+    'name': ' KNIT PATCH POCKET T-SHIRT',
+    'url': [
+      {
+        'path': 'https://andreamartinofficial.com/image/m-4-SW03419M7312-z.jpg',
+        'type': 'z'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-4-SW03419M7312-f.jpg',
+        'type': 'f'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-4-SW03419M7312-t.jpg',
+        'type': 't'
+      }
+    ],
+    'detail': {
+      'features': 'Detailed Features|100% COTTON|RED|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+      'size': 'XS/S/M/L'
+    },
+    'price': '240',
+    'upDate': '2019/12/27'
+  },
+  {
+    'id': 'm-4-SW03419M4921',
+    'chineseName': '黑色鸭子短袖',
+    'name': ' KNIT PATCH POCKET T-SHIRT',
+    'url': [
+      {
+        'path': 'https://andreamartinofficial.com/image/m-4-SW03419M4921-z.jpg',
+        'type': 'z'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-4-SW03419M4921-f.jpg',
+        'type': 'f'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-4-SW03419M4921-t.jpg',
+        'type': 't'
+      }
+    ],
+    'detail': {
+      'features': 'Detailed Features|100% COTTON|BLACK|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+      'size': 'XS/S/M/L'
+    },
+    'price': '240',
+    'upDate': '2019/12/28'
   }
 ]
 
