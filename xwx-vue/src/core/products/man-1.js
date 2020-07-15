@@ -408,8 +408,7 @@ const manOneList = [
     url: [
       { path: 'https://andreamartinofficial.com/image/m-1-23-z.jpg', type: 'z' },
       { path: 'https://andreamartinofficial.com/image/m-1-23-f.jpg', type: 'f' },
-      { path: 'https://andreamartinofficial.com/image/m-1-23-t.jpg', type: 't' },
-      { path: 'https://andreamartinofficial.com/image/m-1-23-1.jpg', type: 'n' }
+      { path: 'https://andreamartinofficial.com/image/m-1-23-t.jpg', type: 't' }
     ],
     detail: {
       'features': 'Detailed Features|100% Polyester|Orange|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',

@@ -6,11 +6,7 @@ const manThreeList = [
     url: [
       { path: 'https://andreamartinofficial.com/image/m-3-0-z.jpg', type: 'z' },
       { path: 'https://andreamartinofficial.com/image/m-3-0-f.jpg', type: 'f' },
-      { path: 'https://andreamartinofficial.com/image/m-3-0-t.jpg', type: 't' },
-      { path: 'https://andreamartinofficial.com/image/m-3-0-1.jpeg', type: 'n' },
-      { path: 'https://andreamartinofficial.com/image/m-3-0-2.jpeg', type: 'n' },
-      { path: 'https://andreamartinofficial.com/image/m-3-0-3.jpeg', type: 'n' },
-      { path: 'https://andreamartinofficial.com/image/m-3-0-4.jpeg', type: 'n' }
+      { path: 'https://andreamartinofficial.com/image/m-3-0-t.jpg', type: 't' }
 
     ],
     detail: {

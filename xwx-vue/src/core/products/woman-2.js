@@ -185,11 +185,7 @@ const womanTwolist = [
       { path: 'https://andreamartinofficial.com/image/w-3-4-z.jpg', type: 'z' },
       { path: 'https://andreamartinofficial.com/image/w-3-4-f.jpg', type: 'f' },
       { path: 'https://andreamartinofficial.com/image/w-3-4-1.jpg', type: 'n' },
-      { path: 'https://andreamartinofficial.com/image/w-2-5-t.jpg', type: 't' },
-      { path: 'https://andreamartinofficial.com/image/w-3-4-2.jpg', type: 'n' },
-      { path: 'https://andreamartinofficial.com/image/w-3-4-3.jpg', type: 'n' },
-      { path: 'https://andreamartinofficial.com/image/w-3-4-4.jpg', type: 'n' },
-      { path: 'https://andreamartinofficial.com/image/w-3-4-5.jpg', type: 'r' }
+      { path: 'https://andreamartinofficial.com/image/w-2-5-t.jpg', type: 't' }
     ],
     detail: {
       'features': '60% KID MOHAIR|29% POLYAMIDE|8% WOOL|3% POLYPROPYLENE|Multicolor|Oversized fit|Model wears a S size|Model measurements : chest 75 cm, height 179 cm|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
@@ -301,8 +297,7 @@ const womanTwolist = [
     url: [
       { path: 'https://andreamartinofficial.com/image/w-2-12-z.jpg', type: 'z' },
       { path: 'https://andreamartinofficial.com/image/w-2-12-f.jpg', type: 'f' },
-      { path: 'https://andreamartinofficial.com/image/w-2-12-t.jpg', type: 't' },
-      { path: 'https://andreamartinofficial.com/image/w-2-12-1.jpg', type: 'r' }
+      { path: 'https://andreamartinofficial.com/image/w-2-12-t.jpg', type: 't' }
     ],
     detail: {
       'features': 'Detailed Features|60%  KID MOHAIR|29%  POLYAMIDE|8%   WOOL|3%   POLYPROPYLENE|White|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning\n',
