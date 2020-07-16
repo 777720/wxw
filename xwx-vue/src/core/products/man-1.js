@@ -184,7 +184,8 @@ const manOneList = [
     url: [
       { path: 'https://andreamartinofficial.com/image/m-1-9-z.jpg', type: 'z' },
       { path: 'https://andreamartinofficial.com/image/m-1-9-f.jpg', type: 'f' },
-      { path: 'https://andreamartinofficial.com/image/m-1-9-t.jpg', type: 't' }
+      { path: 'https://andreamartinofficial.com/image/m-1-9-t.jpg', type: 't' },
+      { path: 'https://andreamartinofficial.com/image/m-1-9-1.jpg', type: 'n' }
     ],
     detail: {
       'features': '38%  Virgin wool|33%  Acrylic|29% Polyester|Lining: 100% Polyamide|Camel|Regular fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
