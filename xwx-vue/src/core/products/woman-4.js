@@ -658,7 +658,7 @@ const womanFourlist = [
       }
     ],
     'detail': {
-      'features': 'Detailed Features|100% Cotton|Blcak|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+      'features': 'Detailed Features|100% Cotton|Black|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
       'size': 'S/M/L'
     },
     'price': '160',
