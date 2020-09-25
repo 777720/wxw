@@ -223,6 +223,56 @@ const manThreeList = [
     },
     price: 310,
     upDate: '2019-9-1'
+  },
+  {
+    'id': 'm-3-SW56800M5512',
+    'chineseName': '格子笑脸衬衫',
+    'name': 'BLACK CHECK SHIRT',
+    'url': [
+      {
+        'path': 'https://andreamartinofficial.com/image/m-3-SW56800M5512-z.jpg',
+        'type': 'z'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-3-SW56800M5512-f.jpg',
+        'type': 'f'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-3-SW56800M5512-t.jpg',
+        'type': 't'
+      }
+    ],
+    'detail': {
+      'features': 'Detailed Features|100% Cotton|Blcak|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+      'size': 'S/M/L'
+    },
+    'price': '390',
+    'upDate': '2020/1/9'
+  },
+  {
+    'id': 'm-3-SW06112M8940',
+    'chineseName': '蓝色四宫格短袖衬衫',
+    'name': 'PATCHES SHORT SLEEVE SHIRT',
+    'url': [
+      {
+        'path': 'https://andreamartinofficial.com/image/m-3-SW06112M8940-z.jpg',
+        'type': 'z'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-3-SW06112M8940-f.jpg',
+        'type': 'f'
+      },
+      {
+        'path': 'https://andreamartinofficial.com/image/m-3-SW06112M8940-t.jpg',
+        'type': 't'
+      }
+    ],
+    'detail': {
+      'features': 'Detailed Features|100% Cotton|Blue|Oversized fit|Do not wash|Do not bleach|Do not tumble dry|Cool iron|Light dry cleaning',
+      'size': 'S/M/L'
+    },
+    'price': '400',
+    'upDate': '2020/1/10'
   }
 ]
 
